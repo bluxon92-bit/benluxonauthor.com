@@ -1,0 +1,46 @@
+<header class="site-header" id="site-header">
+  <nav class="nav-inner" aria-label="Main navigation">
+
+    <a href="{{ '/' | relative_url }}" class="nav-logo" aria-label="Ben Luxon home">
+      <span class="nav-logo-name">Ben Luxon</span>
+      <span class="nav-logo-sub">Science Fiction Author</span>
+    </a>
+
+    <ul class="nav-links" role="list">
+
+      <li class="nav-dropdown">
+        <a href="{{ '/books/' | relative_url }}" aria-haspopup="true">Books</a>
+        <div class="dropdown-menu" role="menu">
+          <a href="{{ '/books/sunset-in-the-east/' | relative_url }}" role="menuitem">Sunset in the East</a>
+          <a class="wip" role="menuitem" aria-disabled="true">Untitled Novel #2</a>
+          <a class="wip" role="menuitem" aria-disabled="true">Untitled Novel #3</a>
+        </div>
+      </li>
+
+      <li><a href="{{ '/blog/' | relative_url }}">Writer's Blog</a></li>
+      <li><a href="{{ '/about/' | relative_url }}">About</a></li>
+      <li><a href="{{ '/newsletter/' | relative_url }}">Newsletter</a></li>
+      <li class="nav-cta">
+        <a href="{{ site.author.amazon }}" target="_blank" rel="noopener">Buy on Amazon</a>
+      </li>
+
+    </ul>
+
+    <button class="nav-toggle" aria-label="Open menu" aria-expanded="false">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+
+  </nav>
+</header>
+
+<!-- Mobile nav overlay -->
+<nav class="nav-mobile" aria-label="Mobile navigation">
+  <a href="{{ '/' | relative_url }}">Home</a>
+  <a href="{{ '/books/' | relative_url }}">Books</a>
+  <a href="{{ '/blog/' | relative_url }}">Writer's Blog</a>
+  <a href="{{ '/about/' | relative_url }}">About</a>
+  <a href="{{ '/newsletter/' | relative_url }}">Newsletter</a>
+  <a href="{{ site.author.amazon }}" target="_blank" rel="noopener" style="color: var(--gold);">Buy on Amazon ↗</a>
+</nav>

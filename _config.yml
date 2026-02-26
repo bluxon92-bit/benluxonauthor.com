@@ -1,0 +1,53 @@
+title: Ben Luxon
+tagline: Science Fiction Author
+description: Thought-provoking sci-fi stories blending technology, philosophy, and masterful world-building.
+url: "https://benluxonauthor.com"
+baseurl: ""
+
+author:
+  name: Ben Luxon
+  bio: >
+    Drawing inspiration from technology, philosophy, and the art of world-building,
+    Ben Luxon crafts immersive stories that challenge perspectives and ignite the imagination.
+  amazon: "https://www.amazon.com/Sunset-East-Sci-Fi-Short-Stories-ebook/dp/B09QPHL21X"
+
+sister_site:
+  name: Cabbage Tree Books
+  url: "https://cabbagetreebooks.com"
+  description: "Book recommendations, reviews & genre guides"
+
+mailerlite:
+  form_url: "YOUR_MAILERLITE_FORM_URL_HERE"
+
+markdown: kramdown
+highlighter: rouge
+permalink: /blog/:slug/
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+collections:
+  books:
+    output: true
+    permalink: /books/:slug/
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      category: "Writers Blog"
+  - scope:
+      path: ""
+      type: books
+    values:
+      layout: book
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules

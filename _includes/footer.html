@@ -1,0 +1,44 @@
+<footer class="site-footer">
+  <div class="footer-inner">
+
+    <div class="footer-grid">
+
+      <div class="footer-brand">
+        <div class="footer-brand-name">Ben Luxon</div>
+        <p>Science fiction that blends technology, philosophy, and world-building to challenge perspectives and ignite the imagination.</p>
+      </div>
+
+      <div class="footer-col">
+        <h4>Books</h4>
+        <ul>
+          <li><a href="{{ '/books/sunset-in-the-east/' | relative_url }}">Sunset in the East</a></li>
+          <li><a href="{{ '/free-downloads/' | relative_url }}">Free Short Stories</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4>Writer's Corner</h4>
+        <ul>
+          <li><a href="{{ '/blog/' | relative_url }}">Writer's Blog</a></li>
+          <li><a href="{{ '/newsletter/' | relative_url }}">Newsletter</a></li>
+          <li><a href="{{ '/about/' | relative_url }}">About</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4>Also</h4>
+        <ul>
+          <li><a href="{{ site.sister_site.url }}" target="_blank" rel="noopener">Cabbage Tree Books ↗</a></li>
+          <li><a href="{{ site.author.amazon }}" target="_blank" rel="noopener">Amazon Author Page ↗</a></li>
+        </ul>
+      </div>
+
+    </div>
+
+    <div class="footer-bottom">
+      <span>© {{ site.time | date: "%Y" }} Ben Luxon. All rights reserved.</span>
+      <a href="{{ site.sister_site.url }}" target="_blank" rel="noopener">Cabbage Tree Books →</a>
+    </div>
+
+  </div>
+</footer>

@@ -1,0 +1,75 @@
+---
+layout: default
+title: Writer's Blog
+description: Writing advice, craft tips, world-building guides, and self-publishing insights from Ben Luxon.
+permalink: /blog/
+---
+
+<div class="page-hero">
+  <div class="page-hero-bg"></div>
+  <div class="page-hero-inner">
+    <div class="section-label">
+      <span class="section-label-line"></span>
+      <span class="section-label-text">Writer's Corner</span>
+    </div>
+    <h1>The Writer's <em>Blog</em></h1>
+    <p class="page-hero-sub">Craft, structure, world-building, and the honest realities of writing and self-publishing.</p>
+  </div>
+</div>
+
+<section class="posts-listing">
+  <div class="posts-inner">
+
+    <div class="search-bar">
+      <input type="search"
+             id="blog-search"
+             placeholder="Search posts…"
+             aria-label="Search posts">
+    </div>
+
+    <!-- Category filter -->
+    <div style="display:flex; gap:0.75rem; flex-wrap:wrap; margin-bottom:2.5rem;" role="group" aria-label="Filter by category">
+      <button class="btn btn-ghost filter-btn active" style="font-size:0.7rem; padding:0.4rem 1rem;" data-filter="all">All</button>
+      <button class="btn btn-ghost filter-btn" style="font-size:0.7rem; padding:0.4rem 1rem;" data-filter="Writing Advice">Writing Advice</button>
+      <button class="btn btn-ghost filter-btn" style="font-size:0.7rem; padding:0.4rem 1rem;" data-filter="Self-Publishing">Self-Publishing</button>
+      <button class="btn btn-ghost filter-btn" style="font-size:0.7rem; padding:0.4rem 1rem;" data-filter="World-Building">World-Building</button>
+    </div>
+
+    <div class="posts-list" id="posts-list">
+      {% for post in site.posts %}
+      <article class="post-list-item" data-category="{{ post.category | default: 'Writing Advice' }}">
+        <div class="post-list-content">
+          <div class="post-list-tag">{{ post.category | default: "Writing Advice" }}</div>
+          <h2 class="post-list-title">
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          </h2>
+          <p class="post-list-excerpt">{{ post.excerpt | strip_html | truncate: 160 }}</p>
+        </div>
+        <div class="post-list-meta">
+          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+
+    {% if site.posts.size == 0 %}
+    <p style="color: var(--text-muted); padding: 3rem 0; text-align:center; font-style:italic;">No posts yet — check back soon.</p>
+    {% endif %}
+
+  </div>
+</section>
+
+<script>
+// Category filter
+const filterBtns = document.querySelectorAll('.filter-btn');
+filterBtns.forEach(btn => {
+  btn.addEventListener('click', () => {
+    filterBtns.forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    const filter = btn.dataset.filter;
+    document.querySelectorAll('.post-list-item').forEach(item => {
+      item.style.display = (filter === 'all' || item.dataset.category === filter) ? '' : 'none';
+    });
+  });
+});
+</script>
