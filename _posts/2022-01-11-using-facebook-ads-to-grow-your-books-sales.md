@@ -28,7 +28,6 @@ All this new technology is a little daunting though. So we’ve put together a q
 
 ### Two things you should be doing on Facebook for your business that don’t cost anything
 
-
 **1. "Like" pages that relate to your business.**
 
 Companies create Facebook pages to advertise promotions, new services or upcoming events. While this is something you can do as well, you can also "like" those pages to show your support and show other followers that you up-to-date with whats going on, and in so doing raise awareness of your business.When you click "like" a page a notification is posted to your wall showing that you have acknowledged the page.
@@ -41,22 +40,21 @@ Sometimes these groups require an invitation in order to see certain content. Of
 
 ## **How to Set Up a Facebook Ads Campaign**
 
-
 Step 1: Set some goals for your Facebook Ads
 
 Before you begin with any marketing campaign is important to sit down and think about what you want to achieve. Set a few realistic goals and you will be able to measure how successful you were. For example:
 
-· Do you want to increase brand awareness?
+·         Do you want to increase brand awareness?
 
-· Perhaps you want to get more website traffic from Facebook?
+·         Perhaps you want to get more website traffic from Facebook?
 
-· Maybe just grow your Facebook likes?
+·         Maybe just grow your Facebook likes?
 
-· Do you want to increase attendance at an event?
+·         Do you want to increase attendance at an event?
 
-· Increase the reach of your content on Facebook
+·         Increase the reach of your content on Facebook
 
-· Or boost engagement for our Facebook Page
+·         Or boost engagement for our Facebook Page
 
 Step 2. Go to Facebook Ads Manager
 
@@ -74,43 +72,43 @@ Awareness
 
 These are objectives that generate interest in your product or service:
 
-· Boost your posts
+·         Boost your posts
 
-· Promote your page
+·         Promote your page
 
-· Reach people near your business
+·         Reach people near your business
 
-· Increase Brand Awareness
+·         Increase Brand Awareness
 
-· Increase your reach
+·         Increase your reach
 
-Consideration 
+Consideration
 
 Objectives that get people thinking about your business and looking for more information:
 
-· Send people to a destination on or off Facebook
+·         Send people to a destination on or off Facebook
 
-· Get installs of your app
+·         Get installs of your app
 
-· Raise attendance at your event
+·         Raise attendance at your event
 
-· Get video views
+·         Get video views
 
-· Collect leads for your business
+·         Collect leads for your business
 
 And Conversion
 
 Objectives that encourage people that are interested in your business to purchase or use your product or service:
 
-· Increase conversions on your website
+·         Increase conversions on your website
 
-· Increase engagement in your app
+·         Increase engagement in your app
 
-· Get people to claim your offer
+·         Get people to claim your offer
 
-· Promote a product or catalogue
+·         Promote a product or catalogue
 
-· Get people to visit your shops
+·         Get people to visit your shops
 
 Step 4: Define your audience and budget
 
@@ -120,40 +118,32 @@ This step is one of the most exciting things about Facebook ads. Because Faceboo
 
  The audience for your ad can be customized based on all the following demographics:
 
-- 
-
-Location, starting with a country, state, city, zip code, or address, and refining even further with a mile radius
-- 
-
-Age
-- 
-
-Gender
-- 
-
-Languages
-- 
-
-Interests – Facebook looks at a person’s interests, activity, the Pages they like, and closely related topics
-- 
-
-Behaviours – Things like purchase behaviour and intent, as well as device usage
-- 
-
-Connections
-
+-
+  Location, starting with a country, state, city, zip code, or address, and refining even further with a mile radius
+-
+  Age
+-
+  Gender
+-
+  Languages
+-
+  Interests – Facebook looks at a person’s interests, activity, the Pages they like, and closely related topics
+-
+  Behaviours – Things like purchase behaviour and intent, as well as device usage
+-
+  Connections
 
 In addition, with the Connections setting, you can choose advanced targeting, which lets you include or exclude people who are connected to certain pages, apps, or events. You can also further customize your targeting using [custom audiences](https://www.facebook.com/help/341425252616329) to retarget people who have already interacted with your business.
 
 Setting your Budget
 
-Once you’ve selected your target audience, you next need to choose how much you’d like to spend on your ad. When you set a budget, it’s important to remember that this figure represents the maximum amount of money you want to spend. 
+Once you’ve selected your target audience, you next need to choose how much you’d like to spend on your ad. When you set a budget, it’s important to remember that this figure represents the maximum amount of money you want to spend.
 
 Step 5: Create your Advert
 
 This is where it gets really fun! It’s now time to choose the images (or video), headline, body text, and where your ad will be displayed on Facebook. For the text, you get 90 characters to share a quick message that will appear above your image(s) or video.
 
-There are two ways to create adverts: 
+There are two ways to create adverts:
 
 Using an Existing Post, or Creating a New Advert.
 
@@ -163,7 +153,7 @@ For certain types of adverts, such as boosting posts, you can create your ad usi
 
 Creating a New Advert
 
-The first task when creating an ad from scratch is to select the format you’d like to use for your advert. 
+The first task when creating an ad from scratch is to select the format you’d like to use for your advert.
 
 Facebook currently offers 5 various formats for adverts each with a different effect:
 
@@ -189,13 +179,9 @@ Thanks for reading, I hope you find to be a useful guide for getting set up with
 
 #### You Might Like
 
-
-- 
-
-[9 Incredible Fantasy Short Stories & Where You Can Read Them](https://www.cabbagetreebooks.com/blog/fantasy-short-stories)
-- 
-
-[12 Classic Science Fiction Short Stories You Need To Read](https://www.cabbagetreebooks.com/blog/12-classic-science-fiction-short-stories-you-need-to-read)
-- 
-
-[9 Dystopian Novels That Will Change How You View The World](https://www.cabbagetreebooks.com/blog/9-dystopian-novels-to-read)
+-
+  [9 Incredible Fantasy Short Stories & Where You Can Read Them](https://www.cabbagetreebooks.com/blog/fantasy-short-stories)
+-
+  [12 Classic Science Fiction Short Stories You Need To Read](https://www.cabbagetreebooks.com/blog/12-classic-science-fiction-short-stories-you-need-to-read)
+-
+  [9 Dystopian Novels That Will Change How You View The World](https://www.cabbagetreebooks.com/blog/9-dystopian-novels-to-read)
