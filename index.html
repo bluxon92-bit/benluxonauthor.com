@@ -205,8 +205,7 @@ description: Ben Luxon — Science fiction and fantasy author. Thought-provoking
     </div>
 
     <div class="blog-grid">
-      {% assign blog_posts = site.posts | limit: 3 %}
-      {% for post in blog_posts %}
+      {% for post in site.posts limit:3 %}
       <article class="blog-card">
         <div class="blog-card-number">0{{ forloop.index }}</div>
         <div class="blog-card-tag">{{ post.category | default: "Writing" }}</div>
