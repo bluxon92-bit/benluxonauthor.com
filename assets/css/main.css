@@ -1585,14 +1585,35 @@ body::after {
   margin-top: auto;
 }
 
-/* Hero book frame override */
-.hero-book-frame::before,
-.hero-book-frame::after { display: none; }
+/* Hero book frame — show gold frame decorations */
+.hero-book-frame::before {
+  content: '';
+  position: absolute;
+  inset: -12px;
+  border: 1px solid var(--border-gold);
+  border-radius: 2px;
+  z-index: 0;
+}
+.hero-book-frame::after {
+  content: '';
+  position: absolute;
+  bottom: -20px;
+  left: -20px;
+  width: 100px;
+  height: 100px;
+  border-left: 2px solid var(--gold);
+  border-bottom: 2px solid var(--gold);
+  z-index: 0;
+}
 .hero-book-frame img {
-  filter: drop-shadow(0 30px 60px rgba(0,0,0,0.7)) drop-shadow(0 0 40px rgba(201,168,76,0.1));
-  transform: perspective(1000px) rotateY(-4deg);
+  position: relative;
+  z-index: 1;
+  max-width: 320px;
+  width: 100%;
+  display: block;
+  filter: drop-shadow(0 24px 48px rgba(0,0,0,0.7));
+  transform: perspective(1000px) rotateY(-3deg);
   transition: transform var(--t-med) var(--ease);
-  max-width: 340px;
 }
 .hero-book-frame:hover img { transform: perspective(1000px) rotateY(0deg); }
 
