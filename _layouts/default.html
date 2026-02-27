@@ -6,18 +6,13 @@
   <title>{% if page.title %}{{ page.title }} — {{ site.title }}{% else %}{{ site.title }} — {{ site.tagline }}{% endif %}</title>
   <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">
-
-  <!-- Open Graph -->
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
   <meta property="og:type" content="website">
-
-  <!-- Fonts + CSS -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
-
   {% seo %}
   {% feed_meta %}
 </head>
@@ -25,12 +20,11 @@
 
   {% include header.html %}
 
-  <main>
-    {{ content }}
-  </main>
+  <main>{{ content }}</main>
 
   {% include sister-banner.html %}
   {% include footer.html %}
+  {% include cookie-banner.html %}
 
   <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
 </body>

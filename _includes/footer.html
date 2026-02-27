@@ -1,17 +1,18 @@
 <footer class="site-footer">
   <div class="footer-inner">
-
     <div class="footer-grid">
 
       <div class="footer-brand">
         <div class="footer-brand-name">Ben Luxon</div>
-        <p>Science fiction that blends technology, philosophy, and world-building to challenge perspectives and ignite the imagination.</p>
+        <p>Science fiction and fantasy stories blending technology, philosophy, and world-building to challenge perspectives and ignite the imagination.</p>
       </div>
 
       <div class="footer-col">
         <h4>Books</h4>
         <ul>
           <li><a href="{{ '/books/sunset-in-the-east/' | relative_url }}">Sunset in the East</a></li>
+          <li><a href="{{ '/books/the-shadow-of-eshu/' | relative_url }}">The Shadow of Eshu</a></li>
+          <li><a href="{{ '/books/the-first-ash-falls/' | relative_url }}">The First Ash Falls</a></li>
           <li><a href="{{ '/free-downloads/' | relative_url }}">Free Short Stories</a></li>
         </ul>
       </div>
@@ -26,8 +27,10 @@
       </div>
 
       <div class="footer-col">
-        <h4>Also</h4>
+        <h4>Legal &amp; Links</h4>
         <ul>
+          <li><a href="{{ '/cookie-policy/' | relative_url }}">Cookie Policy</a></li>
+          <li><a href="{{ '/terms/' | relative_url }}">Terms &amp; Conditions</a></li>
           <li><a href="{{ site.sister_site.url }}" target="_blank" rel="noopener">Cabbage Tree Books ↗</a></li>
           <li><a href="{{ site.author.amazon }}" target="_blank" rel="noopener">Amazon Author Page ↗</a></li>
         </ul>
@@ -37,7 +40,10 @@
 
     <div class="footer-bottom">
       <span>© {{ site.time | date: "%Y" }} Ben Luxon. All rights reserved.</span>
-      <a href="{{ site.sister_site.url }}" target="_blank" rel="noopener">Cabbage Tree Books →</a>
+      <span>
+        <a href="{{ '/cookie-policy/' | relative_url }}">Cookies</a> ·
+        <a href="{{ '/terms/' | relative_url }}">Terms</a>
+      </span>
     </div>
 
   </div>

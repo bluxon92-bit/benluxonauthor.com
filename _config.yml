@@ -1,14 +1,11 @@
 title: Ben Luxon
-tagline: Science Fiction Author
-description: Thought-provoking sci-fi stories blending technology, philosophy, and masterful world-building.
+tagline: Author
+description: Science fiction and fantasy stories blending technology, philosophy, and world-building.
 url: "https://benluxonauthor.com"
 baseurl: "/benluxonauthor.com"
 
 author:
   name: Ben Luxon
-  bio: >
-    Drawing inspiration from technology, philosophy, and the art of world-building,
-    Ben Luxon crafts immersive stories that challenge perspectives and ignite the imagination.
   amazon: "https://www.amazon.com/Sunset-East-Sci-Fi-Short-Stories-ebook/dp/B09QPHL21X"
 
 sister_site:
@@ -28,11 +25,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-collections:
-  books:
-    output: true
-    permalink: /books/:slug/
-
 defaults:
   - scope:
       path: ""
@@ -40,11 +32,6 @@ defaults:
     values:
       layout: post
       category: "Writers Blog"
-  - scope:
-      path: ""
-      type: books
-    values:
-      layout: book
 
 exclude:
   - Gemfile

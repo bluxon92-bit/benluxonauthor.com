@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Home
-description: Ben Luxon — Science fiction author. Thought-provoking stories blending technology, philosophy, and world-building.
+description: Ben Luxon — Science fiction and fantasy author. Thought-provoking stories blending technology, philosophy, and world-building.
 ---
 
 <!-- ==============================
-     HERO
+     HERO — Book cover led
      ============================== -->
 <section class="hero">
   <div class="hero-bg"></div>
@@ -14,33 +14,30 @@ description: Ben Luxon — Science fiction author. Thought-provoking stories ble
     <div class="hero-content">
       <div class="hero-eyebrow">
         <span class="hero-eyebrow-line"></span>
-        <span class="hero-eyebrow-text">Science Fiction Author</span>
+        <span class="hero-eyebrow-text">Science Fiction &amp; Fantasy Author</span>
       </div>
-
       <h1>
         <span class="hero-name-first">Ben</span>
         <span class="hero-name-last">Luxon</span>
       </h1>
-
       <div class="hero-rule"></div>
-
       <p class="hero-description">
         Thought-provoking stories that blend technology, philosophy, and masterful world-building — crafted to challenge perspectives and ignite the imagination.
       </p>
-
       <div class="hero-buttons">
-        <a href="{{ '/books/sunset-in-the-east/' | relative_url }}" class="btn btn-primary">Explore the Books</a>
-        <a href="https://www.amazon.com/Sunset-East-Sci-Fi-Short-Stories-ebook/dp/B09QPHL21X" target="_blank" rel="noopener" class="btn btn-ghost">Buy on Amazon ↗</a>
+        <a href="{{ '/books/' | relative_url }}" class="btn btn-primary">Explore the Books</a>
+        <a href="{{ site.author.amazon }}" target="_blank" rel="noopener" class="btn btn-ghost">Buy on Amazon ↗</a>
       </div>
     </div>
 
     <div class="hero-portrait-wrap">
-      <div class="hero-portrait-frame">
-        <img src="{{ '/assets/images/ben-luxon.jpg' | relative_url }}"
-             alt="Ben Luxon, science fiction author"
-             width="380" height="507"
-             loading="eager">
-        <span class="hero-portrait-label">Ben Luxon</span>
+      <div class="hero-portrait-frame hero-book-frame">
+        <a href="{{ '/books/sunset-in-the-east/' | relative_url }}">
+          <img src="{{ '/assets/images/sunset-cover-3d.png' | relative_url }}"
+               alt="Sunset in the East — Ben Luxon"
+               width="380"
+               loading="eager">
+        </a>
       </div>
     </div>
 
@@ -48,49 +45,7 @@ description: Ben Luxon — Science fiction author. Thought-provoking stories ble
 
   <div class="scroll-indicator" aria-hidden="true">
     <span>Scroll</span>
-    <div class="scroll-mouse"><span></span></div>
-  </div>
-</section>
-
-
-<!-- ==============================
-     BOOK FEATURE
-     ============================== -->
-<section class="book-feature">
-  <div class="book-feature-inner">
-
-    <div class="book-cover-wrap">
-      <div class="book-cover-shadow"></div>
-      <a href="{{ '/books/sunset-in-the-east/' | relative_url }}">
-        <img src="{{ '/assets/images/sunset-cover.jpg' | relative_url }}"
-             alt="Sunset in the East — book cover"
-             width="300" height="450"
-             onerror="this.style.display='none'">
-      </a>
-    </div>
-
-    <div class="book-info">
-      <div class="book-tag">Latest Release</div>
-      <h2 class="book-title">Sunset in the East</h2>
-      <p class="book-subtitle">Sci-Fi Short Stories · Available on Amazon</p>
-
-      <p class="book-description">
-        Distant futures, bizarre aliens, AI and automatons come together in this compelling collection of thought-provoking science fiction short stories. These tales range from psychological thrillers with surprising twists to humorous absurdism — perfect for fans of Black Mirror and classic sci-fi.
-      </p>
-
-      <blockquote class="book-review-pull">
-        "Eight dark, funny and thought-provoking short sci-fi stories, each a fresh take on the absurdity of humanity."
-        <cite>— Tim, Amazon Review</cite>
-      </blockquote>
-
-      <div class="book-actions">
-        <a href="https://www.amazon.com/Sunset-East-Sci-Fi-Short-Stories-ebook/dp/B09QPHL21X"
-           target="_blank" rel="noopener"
-           class="btn btn-primary">Buy on Amazon</a>
-        <a href="{{ '/books/sunset-in-the-east/' | relative_url }}" class="btn btn-ghost">Learn more</a>
-      </div>
-    </div>
-
+    <div class="scroll-mouse"></div>
   </div>
 </section>
 
@@ -100,31 +55,26 @@ description: Ben Luxon — Science fiction author. Thought-provoking stories ble
      ============================== -->
 <section class="reviews-section">
   <div class="reviews-container">
-
     <div class="review-slide active">
       <span class="review-stars">★★★★★</span>
       <p class="review-text">"An inspired, fresh and surprisingly dark collection of short stories. In the best stylings of page-turner fiction dealing with thought-provoking issues and underlying connective themes reminiscent of Lovecraft."</p>
       <span class="review-author">Elliot Holman — Amazon Review</span>
     </div>
-
+    <div class="review-slide">
+      <span class="review-stars">★★★★★</span>
+      <p class="review-text">"Eight dark, funny and thought-provoking short sci-fi stories, each a fresh take on the absurdity of humanity. Highly recommend."</p>
+      <span class="review-author">Tim — Amazon Review</span>
+    </div>
     <div class="review-slide">
       <span class="review-stars">★★★★★</span>
       <p class="review-text">"All stories read so well. I read on a night before bed and I woke up thinking I had watched a movie. Amazing reads."</p>
       <span class="review-author">Alex Page — Amazon Review</span>
     </div>
-
-    <div class="review-slide">
-      <span class="review-stars">★★★★★</span>
-      <p class="review-text">"All the stories were good, quite fascinating. Man on the Moon was especially interesting. Would like to see more from this author."</p>
-      <span class="review-author">Amazon Reviewer</span>
-    </div>
-
     <div class="review-slide">
       <span class="review-stars">★★★★</span>
       <p class="review-text">"This anthology is made up of 8 really good short stories that all feel well developed and complete. I would definitely read more books by this author."</p>
       <span class="review-author">Goodreads Review</span>
     </div>
-
   </div>
   <div class="review-dots">
     <button class="review-dot active" aria-label="Review 1"></button>
@@ -136,11 +86,113 @@ description: Ben Luxon — Science fiction author. Thought-provoking stories ble
 
 
 <!-- ==============================
-     WRITER'S BLOG PREVIEW
+     ALL WORKS
      ============================== -->
 <section class="section" style="background: var(--deep); border-top: 1px solid var(--border);">
   <div class="section-inner">
 
+    <div style="margin-bottom: 3.5rem;">
+      <div class="section-label">
+        <span class="section-label-line"></span>
+        <span class="section-label-text">The Books</span>
+      </div>
+      <h2 class="section-title">All <em>Works</em></h2>
+    </div>
+
+    <div class="works-grid">
+
+      <!-- Sunset in the East -->
+      <div class="work-card work-card--published">
+        <div class="work-card-cover">
+          <a href="{{ '/books/sunset-in-the-east/' | relative_url }}">
+            <img src="{{ '/assets/images/sunset-cover-flat.jpg' | relative_url }}"
+                 alt="Sunset in the East"
+                 loading="lazy">
+          </a>
+        </div>
+        <div class="work-card-body">
+          <span class="work-badge work-badge--available">Available Now</span>
+          <h3><a href="{{ '/books/sunset-in-the-east/' | relative_url }}">Sunset in the East</a></h3>
+          <p class="work-type">Sci-Fi Short Story Collection</p>
+          <p class="work-desc">Eight mind-bending tales of distant futures, bizarre aliens, and the absurdity of humanity — from psychological thrillers to dark humour. Free on Kindle Unlimited.</p>
+          <div class="work-actions">
+            <a href="{{ site.author.amazon }}" target="_blank" rel="noopener" class="btn btn-primary" style="font-size:0.72rem; padding:0.65rem 1.25rem;">Buy on Amazon</a>
+            <a href="{{ '/books/sunset-in-the-east/' | relative_url }}" class="btn btn-ghost" style="font-size:0.72rem; padding:0.65rem 1.25rem;">Learn more</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Shadow of Eshu -->
+      <div class="work-card work-card--wip">
+        <div class="work-card-cover">
+          <a href="{{ '/books/the-shadow-of-eshu/' | relative_url }}">
+            <img src="{{ '/assets/images/shadow-of-eshu-cover.png' | relative_url }}"
+                 alt="The Shadow of Eshu"
+                 loading="lazy">
+          </a>
+        </div>
+        <div class="work-card-body">
+          <span class="work-badge work-badge--wip">Coming Soon</span>
+          <h3><a href="{{ '/books/the-shadow-of-eshu/' | relative_url }}">The Shadow of Eshu</a></h3>
+          <p class="work-type">Epic Fantasy Novel</p>
+          <p class="work-desc">An empire crumbling from within. A soldier who lost his purpose. A woman who will burn kingdoms down for revenge. A sweeping tale of loyalty, war, and sorcery.</p>
+          <div class="work-actions">
+            <a href="{{ '/books/the-shadow-of-eshu/' | relative_url }}" class="btn btn-ghost" style="font-size:0.72rem; padding:0.65rem 1.25rem;">Learn more</a>
+            <a href="{{ '/newsletter/' | relative_url }}" class="btn btn-ghost" style="font-size:0.72rem; padding:0.65rem 1.25rem;">Get notified</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- The First Ash Falls -->
+      <div class="work-card work-card--wip">
+        <div class="work-card-cover work-card-cover--placeholder">
+          <div class="cover-placeholder">
+            <span class="cover-placeholder-title">The First<br>Ash Falls</span>
+            <span class="cover-placeholder-sub">The God Forge Trilogy · Book I</span>
+          </div>
+        </div>
+        <div class="work-card-body">
+          <span class="work-badge work-badge--wip">Coming Soon</span>
+          <h3><a href="{{ '/books/the-first-ash-falls/' | relative_url }}">The First Ash Falls</a></h3>
+          <p class="work-type">Fantasy Novel · The God Forge Trilogy, Book 1</p>
+          <p class="work-desc">A city ruled by magic-bound metal. A young man branded a criminal. An impossible heist from the temple of a god. The God Forge Trilogy begins.</p>
+          <div class="work-actions">
+            <a href="{{ '/books/the-first-ash-falls/' | relative_url }}" class="btn btn-ghost" style="font-size:0.72rem; padding:0.65rem 1.25rem;">Learn more</a>
+            <a href="{{ '/newsletter/' | relative_url }}" class="btn btn-ghost" style="font-size:0.72rem; padding:0.65rem 1.25rem;">Get notified</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Free Stories -->
+      <div class="work-card work-card--free">
+        <div class="work-card-cover work-card-cover--placeholder work-card-cover--free">
+          <div class="cover-placeholder">
+            <span style="font-size:3rem; display:block; margin-bottom:0.75rem;">✦</span>
+            <span class="cover-placeholder-title" style="font-size:1.4rem;">10 Free<br>Sci-Fi Stories</span>
+            <span class="cover-placeholder-sub">Classic short fiction</span>
+          </div>
+        </div>
+        <div class="work-card-body">
+          <span class="work-badge work-badge--free">Free Download</span>
+          <h3><a href="{{ '/free-downloads/' | relative_url }}">Free Sci-Fi Short Stories</a></h3>
+          <p class="work-type">Classic Short Fiction · Free via Newsletter</p>
+          <p class="work-desc">Ten hand-picked classic science fiction short stories delivered straight to your inbox. The foundational reads every sci-fi fan should know — completely free.</p>
+          <div class="work-actions">
+            <a href="{{ '/free-downloads/' | relative_url }}" class="btn btn-primary" style="font-size:0.72rem; padding:0.65rem 1.25rem; background:var(--teal); border-color:var(--teal);">Get Free Stories</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<!-- ==============================
+     WRITER'S BLOG PREVIEW
+     ============================== -->
+<section class="section" style="background: var(--void); border-top: 1px solid var(--border);">
+  <div class="section-inner">
     <div style="display:flex; justify-content:space-between; align-items:flex-end; margin-bottom:3rem; flex-wrap:wrap; gap:1rem;">
       <div>
         <div class="section-label">
@@ -153,7 +205,7 @@ description: Ben Luxon — Science fiction author. Thought-provoking stories ble
     </div>
 
     <div class="blog-grid">
-      {% assign blog_posts = site.posts | limit: 6 %}
+      {% assign blog_posts = site.posts | limit: 3 %}
       {% for post in blog_posts %}
       <article class="blog-card">
         <div class="blog-card-number">0{{ forloop.index }}</div>
@@ -164,41 +216,6 @@ description: Ben Luxon — Science fiction author. Thought-provoking stories ble
       </article>
       {% endfor %}
     </div>
-
-  </div>
-</section>
-
-
-<!-- ==============================
-     ABOUT STRIP
-     ============================== -->
-<section class="about-strip">
-  <div class="about-strip-inner">
-
-    <div class="about-portrait">
-      <img src="{{ '/assets/images/ben-luxon.jpg' | relative_url }}"
-           alt="Ben Luxon author photo"
-           width="400" height="533">
-      <div class="about-portrait-accent"></div>
-      <div class="about-portrait-accent-2"></div>
-    </div>
-
-    <div class="about-content">
-      <div class="section-label" style="margin-bottom:1rem;">
-        <span class="section-label-line"></span>
-        <span class="section-label-text">The Author</span>
-      </div>
-      <h2 class="section-title" style="margin-bottom:2rem;">About <em>Ben Luxon</em></h2>
-
-      <p class="lead">Drawing inspiration from technology, philosophy, and the art of world-building, Ben Luxon crafts immersive stories that challenge perspectives and ignite the imagination.</p>
-
-      <p>His debut release, <em>Sunset in the East</em>, is a compelling collection of mind-bending sci-fi short stories, blending psychological thrillers with humorous absurdism.</p>
-
-      <p>When not writing, Ben writes about writing — sharing hard-won lessons on craft, structure, and the long road from first draft to published book.</p>
-
-      <a href="{{ '/about/' | relative_url }}" class="btn btn-ghost" style="margin-top:1rem;">Read more →</a>
-    </div>
-
   </div>
 </section>
 

@@ -3,7 +3,7 @@
 
     <a href="{{ '/' | relative_url }}" class="nav-logo" aria-label="Ben Luxon home">
       <span class="nav-logo-name">Ben Luxon</span>
-      <span class="nav-logo-sub">Science Fiction Author</span>
+      <span class="nav-logo-sub">Author</span>
     </a>
 
     <ul class="nav-links" role="list">
@@ -12,8 +12,9 @@
         <a href="{{ '/books/' | relative_url }}" aria-haspopup="true">Books</a>
         <div class="dropdown-menu" role="menu">
           <a href="{{ '/books/sunset-in-the-east/' | relative_url }}" role="menuitem">Sunset in the East</a>
-          <a class="wip" role="menuitem" aria-disabled="true">Untitled Novel #2</a>
-          <a class="wip" role="menuitem" aria-disabled="true">Untitled Novel #3</a>
+          <a href="{{ '/books/the-shadow-of-eshu/' | relative_url }}" role="menuitem">The Shadow of Eshu <span style="font-size:0.65rem; color:var(--text-muted); font-style:italic;">coming soon</span></a>
+          <a href="{{ '/books/the-first-ash-falls/' | relative_url }}" role="menuitem">The First Ash Falls <span style="font-size:0.65rem; color:var(--text-muted); font-style:italic;">coming soon</span></a>
+          <a href="{{ '/free-downloads/' | relative_url }}" role="menuitem">Free Short Stories</a>
         </div>
       </li>
 
@@ -27,15 +28,12 @@
     </ul>
 
     <button class="nav-toggle" aria-label="Open menu" aria-expanded="false">
-      <span></span>
-      <span></span>
-      <span></span>
+      <span></span><span></span><span></span>
     </button>
 
   </nav>
 </header>
 
-<!-- Mobile nav overlay -->
 <nav class="nav-mobile" aria-label="Mobile navigation">
   <a href="{{ '/' | relative_url }}">Home</a>
   <a href="{{ '/books/' | relative_url }}">Books</a>
