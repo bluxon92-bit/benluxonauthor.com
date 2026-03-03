@@ -12,7 +12,7 @@ excerpt: "Worldbuilding is the process of creating an imaginary world or univers
 
 Worldbuilding is the process of creating an imaginary world or universe for the purpose of telling a story. It is a crucial element of fiction writing, especially in the fantasy and science fiction genres.
 
-Good worldbuilding involves creating a captivating story with [well-developed characters](https://www.cabbagetreebooks.com/writers-blog/how-to-write-believable-characters) set in an imaginary world that is distinct from the real world. It should also be relevant to the plot, characters, and central themes of the story.
+Good worldbuilding involves creating a captivating story with [well-developed characters](https://www.benluxonauthor.com/blog/how-to-write-believable-characters-character-motivation) set in an imaginary world that is distinct from the real world. It should also be relevant to the plot, characters, and central themes of the story.
 
 The amount of worldbuilding required in a story can vary depending on the genre. For example, an [epic fantasy novel](https://www.cabbagetreebooks.com/blog/29-best-fantasy-books) would typically require more world-building than an urban fantasy book, a historical video game, or a science fiction short story.
 
@@ -82,7 +82,7 @@ Consider the occupations that are most highly valued in your fictional society w
 
 On the other hand, if farming is not valued, you could give the protagonist a farming job and have them strive to break free of their low social standing. To create conflict and an underdog protagonist, you could also give the antagonist a more prestigious occupation. This can make readers root for the hero.
 
-**Related**: [The Writer’s Guide: How To Create A Character Profile](https://www.cabbagetreebooks.com/writers-blog/how-to-create-a-character-profile)
+**Related**: [The Writer’s Guide: How To Create A Character Profile](https://www.benluxonauthor.com/blog/the-writers-guide-how-to-create-a-character-profile)
 
 ## 6. Figure out how their laws differ from the real world.
 
@@ -128,7 +128,7 @@ Keep in mind that readers who are invested in your world and characters may noti
 
 Characters are key. Without properly developed and interesting characters all your world-building will be for nought. As such, it’s important to consider how the elements of your world may impact the character arc of your protagonist and antagonist.
 
-Try and avoid including unnecessary details that do not influence the plot, character development, or central themes. Good worldbuilding should enhance all three of these elements whereas bad world-building could very well end up with your novel reading more like fantasy non-fiction. You may find it helpful to [use a character profile template](https://www.cabbagetreebooks.com/writers-blog/how-to-create-a-character-profile) as you develop your characters.
+Try and avoid including unnecessary details that do not influence the plot, character development, or central themes. Good worldbuilding should enhance all three of these elements whereas bad world-building could very well end up with your novel reading more like fantasy non-fiction. You may find it helpful to [use a character profile template](https://www.benluxonauthor.com/blog/the-writers-guide-how-to-create-a-character-profile) as you develop your characters.
 
 ## 13. Create unique idioms and language uses.
 
@@ -146,7 +146,7 @@ Brandon Sanderson suggests choosing 2-4 worldbuilding elements to explore in you
 
 ## 15. Don’t over-plan.
 
-Finally, it’s time to write. Whilst world-building can be fun, the ultimate goal is to write a good book, and if world-building gets in the way, it's not serving that purpose. You should also be careful when world-building to avoid overusing [book tropes](https://www.cabbagetreebooks.com/writers-blog/book-tropes-you-need-to-know). It's okay if you haven't finished building your fictional world before you start writing – you can continue to develop it as you go. The important thing is to get the writing process started and not let anything else hold you back.[
+Finally, it’s time to write. Whilst world-building can be fun, the ultimate goal is to write a good book, and if world-building gets in the way, it's not serving that purpose. You should also be careful when world-building to avoid overusing [book tropes](https://www.benluxonauthor.com/blog/93-book-tropes-that-writers-need-to-know-about). It's okay if you haven't finished building your fictional world before you start writing – you can continue to develop it as you go. The important thing is to get the writing process started and not let anything else hold you back.[
 
 ![](https://images.squarespace-cdn.com/content/v1/61dd3a4e102f883537ae2f1d/de39e3f4-22ef-47b7-8ffe-fb497e577963/ad+banner+for+website.png)
 
@@ -155,9 +155,9 @@ Finally, it’s time to write. Whilst world-building can be fun, the ultimate go
 ### You Might Like
 
 -
-  [5 Key Elements To Writing A Great Fiction Novel](https://www.cabbagetreebooks.com/writers-blog/5-elements-of-a-great-novel)
+  [5 Key Elements To Writing A Great Fiction Novel](https://www.benluxonauthor.com/blog/5-key-elements-to-writing-a-great-fiction-novel)
 -
-  [5 Things Every Author Needs To Know Before Self-Publishing](https://www.cabbagetreebooks.com/writers-blog/what-every-author-needs-to-know-before-self-publishing)
+  [5 Things Every Author Needs To Know Before Self-Publishing](https://www.benluxonauthor.com/blog/5-things-every-author-needs-to-know-before-self-publishing)
 -
   [29 Best Fantasy Books You Need To Read Today](https://www.cabbagetreebooks.com/blog/29-best-fantasy-books)
 -

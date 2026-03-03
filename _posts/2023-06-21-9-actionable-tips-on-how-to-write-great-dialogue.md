@@ -12,7 +12,7 @@ Great dialogue is a vital component of any compelling piece of writing, whether 
 
 However, writing dialogue can be tricky. Done poorly it can be jarring and ruin the immersion for the reader.
 
-In this guide on how to write dialogue, we explore nine actionable tips that will help you write exceptional dialogue. From [creating realistic conversations](https://www.cabbagetreebooks.com/writers-blog/how-to-write-realistic-dialogue) to mastering the art of subtext, we cover a range of techniques that will elevate your dialogue and take your writing to a whole new level.
+In this guide on how to write dialogue, we explore nine actionable tips that will help you write exceptional dialogue. From [creating realistic conversations](https://www.benluxonauthor.com/blog/how-to-write-realistic-and-engaging-dialogue) to mastering the art of subtext, we cover a range of techniques that will elevate your dialogue and take your writing to a whole new level.
 
 ## Here are our 9 tips for writing great dialogue
 
@@ -98,7 +98,7 @@ Exposition is best when it blends seamlessly into the narrative fabric, rather t
 
 Seek opportunities to reveal essential details through actions, character interactions, or gradual revelations instead of relying solely on dialogue-based explanations.
 
-**You may also like our article** [How To Write Realistic And Engaging Dialogue](https://www.cabbagetreebooks.com/writers-blog/how-to-write-realistic-dialogue)
+**You may also like our article** [How To Write Realistic And Engaging Dialogue](https://www.benluxonauthor.com/blog/how-to-write-realistic-and-engaging-dialogue)
 
 ## 7. Employ Catchphrases and Quirks with Care
 
@@ -147,10 +147,10 @@ Once you've honed your ability to create compelling conversations, the next step
 ### You Might Also Like
 
 -
-  [93 Book Tropes That Writers Need To Know About](https://www.cabbagetreebooks.com/writers-blog/book-tropes-you-need-to-know)
+  [93 Book Tropes That Writers Need To Know About](https://www.benluxonauthor.com/blog/93-book-tropes-that-writers-need-to-know-about)
 -
-  [The Writer’s Guide: How To Create A Character Profile](https://www.cabbagetreebooks.com/writers-blog/how-to-create-a-character-profile)
+  [The Writer’s Guide: How To Create A Character Profile](https://www.benluxonauthor.com/blog/the-writers-guide-how-to-create-a-character-profile)
 -
-  [5 Things Every Author Needs To Know Before Self-Publishing](https://www.cabbagetreebooks.com/writers-blog/what-every-author-needs-to-know-before-self-publishing)
+  [5 Things Every Author Needs To Know Before Self-Publishing](https://www.benluxonauthor.com/blog/5-things-every-author-needs-to-know-before-self-publishing)
 -
-  [What Is The 5 Act Structure? And How To Use It In Your Writing](https://www.cabbagetreebooks.com/writers-blog/the-5-act-structure)
+  [What Is The 5 Act Structure? And How To Use It In Your Writing](https://www.benluxonauthor.com/blog/what-is-the-5-act-structure-and-how-to-use-it-in-your-writing)

@@ -24,7 +24,7 @@ So how exactly do you write a good inciting incident?
 
 Firstly, it should set the tone of the story. Is it a gothic horror? A fast-paced action? A mystery? Should the reader feel excited, scared, or angry?
 
-Secondly, it needs to introduce your main character, and it needs to make the reader care about them. You can do this by making [your character's motivations and goals](https://www.cabbagetreebooks.com/writers-blog/how-to-create-a-character-profile) clear from the very beginning.
+Secondly, it needs to introduce your main character, and it needs to make the reader care about them. You can do this by making [your character's motivations and goals](https://www.benluxonauthor.com/blog/the-writers-guide-how-to-create-a-character-profile) clear from the very beginning.
 
 Thirdly, it should raise questions. If you’re writing [fantasy](https://www.cabbagetreebooks.com/blog/fantasy-short-stories), for example, you might display a little of the magic without an explanation. If it’s a murder mystery, you need to make the reader ask why was this person murdered.
 
@@ -32,7 +32,7 @@ The hook is a make-or-break point and is the first thing you need to get right i
 
 ## 2. An interesting protagonist
 
-Novels are about people. Everything else is dressing. The main character or characters drive the story. They need to be believable, their actions, [motivations and goals](https://www.cabbagetreebooks.com/writers-blog/how-to-write-believable-characters) should make sense, be consistent and evolve over the course of the story. The reader doesn’t have to like the protagonist, but they do need to understand them
+Novels are about people. Everything else is dressing. The main character or characters drive the story. They need to be believable, their actions, [motivations and goals](https://www.benluxonauthor.com/blog/how-to-write-believable-characters-character-motivation) should make sense, be consistent and evolve over the course of the story. The reader doesn’t have to like the protagonist, but they do need to understand them
 
 The reader also needs a reason to care, no one will finish your book if they don’t care whether the protagonist succeeds or fails.
 
@@ -92,11 +92,11 @@ However, ultimately you’re writing for an audience. This is why the editing pr
 #### **You Might Like**
 
 -
-  [5 Things Every Author Needs To Know Before Self-Publishing](https://www.cabbagetreebooks.com/writers-blog/what-every-author-needs-to-know-before-self-publishing)
+  [5 Things Every Author Needs To Know Before Self-Publishing](https://www.benluxonauthor.com/blog/5-things-every-author-needs-to-know-before-self-publishing)
 -
-  [How to Write Believable Characters: Character Motivation](https://www.cabbagetreebooks.com/writers-blog/how-to-write-believable-characters)
+  [How to Write Believable Characters: Character Motivation](https://www.benluxonauthor.com/blog/how-to-write-believable-characters-character-motivation)
 -
-  [93 Book Tropes That Writers Need To Know About](https://www.cabbagetreebooks.com/writers-blog/book-tropes-you-need-to-know)
+  [93 Book Tropes That Writers Need To Know About](https://www.benluxonauthor.com/blog/93-book-tropes-that-writers-need-to-know-about)
 -
   [10 of the Best Science Fiction Authors That Everyone Should Read](https://www.cabbagetreebooks.com/blog/10-sci-fi-authors)
 -

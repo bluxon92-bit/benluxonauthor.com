@@ -10,7 +10,7 @@ excerpt: "Self-publishing is one way for authors to get their work out there int
 
 Self-publishing is one way for authors to get their work out there into the world. It means that you don’t need to wait on publishing houses to respond to your queries, and you don’t need to make your work fit into someone else’s idea of ‘good’. Instead, you have complete freedom over your work, you can publish it as soon as you think you’re ready, and of course, you don’t have to split the royalties you earn with your publisher.
 
-However, it’s not all good news. [Launching a book](https://www.cabbagetreebooks.com/writers-blog/what-every-author-needs-to-know-before-self-publishing) isn’t an easy thing to do successfully, nor is it a cheap thing to do well. If this is your first-ever book launch there will be a lot to learn, from how to format your book, to how to build a list of beta readers and quickly gather reviews.
+However, it’s not all good news. [Launching a book](https://www.benluxonauthor.com/blog/5-things-every-author-needs-to-know-before-self-publishing) isn’t an easy thing to do successfully, nor is it a cheap thing to do well. If this is your first-ever book launch there will be a lot to learn, from how to format your book, to how to build a list of beta readers and quickly gather reviews.
 
 Even so, if we look at the stats, smaller indie publishers can have a lot of success if they know what they’re doing. Approximately, [45%](https://www.theguardian.com/books/2013/dec/04/amazon-kindle-ebook-sales-indie-publishers) of sales on Amazon are from indie publishers. That’s a huge percentage and highlights the potential opportunities for newer writers who might not be able to catch the attention of one of the big publishers.
 
@@ -28,7 +28,7 @@ With self-publishing, you have much more control over the speed at which you can
 
 Publishing is a commercial industry. This means publishers are, more often than not, looking for work that they believe will sell. Often they will approach a manuscript with a preconceived notion of what that is. For example, after the Twilight movies, there was a huge flurry of werewolf and vampire literature that was published.
 
-When you publish through a larger publishing house then, the editors, marketers, and designers, that work with you will try and tailor your work to fit a target niche which could have a dramatic impact on [the creative direction of your story.](https://www.cabbagetreebooks.com/writers-blog/how-to-create-a-character-profile)
+When you publish through a larger publishing house then, the editors, marketers, and designers, that work with you will try and tailor your work to fit a target niche which could have a dramatic impact on [the creative direction of your story.](https://www.benluxonauthor.com/blog/the-writers-guide-how-to-create-a-character-profile)
 
 On the other hand, you don’t have to bow to external pressures when you self-publish. You can create a story as boldly original or niche as you like and let your creativity shine. You will also get control over cover design, blurb writing, marketing copy, and format.
 
@@ -38,7 +38,7 @@ Traditional publishers tend to pay around 10%-15% of the royalties that your boo
 
 ### Longer Market Exposure
 
-When you self-publish you don’t have to worry about the publishing house discontinuing your work. Instead, you have as long as you need to develop and [build a sales strategy](https://www.cabbagetreebooks.com/writers-blog/video-book-promotion) to ensure your work finds its audience. Because of this, self-publishing can be a great way for committed new writers to first establish an audience and following which can be leveraged for future success.
+When you self-publish you don’t have to worry about the publishing house discontinuing your work. Instead, you have as long as you need to develop and [build a sales strategy](https://www.benluxonauthor.com/blog/using-video-to-promote-your-book-launch) to ensure your work finds its audience. Because of this, self-publishing can be a great way for committed new writers to first establish an audience and following which can be leveraged for future success.
 
 ## Cons of Self-publishing
 
@@ -46,9 +46,9 @@ When you self-publish you don’t have to worry about the publishing house disco
 
 As we’ve already mentioned, one of the key benefits of publishing through a traditional publishing house is your ability to tap into a support network of industry experts. This support will range from editorial support to marketing support and everything in between.
 
-[Launching a book](https://www.cabbagetreebooks.com/free-downloads) is hard work. You will need to manage everything from the cover design to [paid ads](https://www.cabbagetreebooks.com/writers-blog/using-facebook-to-promote-book-launch) and everything in between. A publishing team is designed to help you produce the very best product and reach as many relevant potential buyers as possible. Your success is their success and having experts in your corner can mean the difference between a best-seller and a flop.
+[Launching a book](https://www.cabbagetreebooks.com/free-downloads) is hard work. You will need to manage everything from the cover design to [paid ads](https://www.benluxonauthor.com/blog/using-facebook-ads-to-grow-your-books-sales) and everything in between. A publishing team is designed to help you produce the very best product and reach as many relevant potential buyers as possible. Your success is their success and having experts in your corner can mean the difference between a best-seller and a flop.
 
-**Related**: [5 Things Every Author Needs To Know Before Self-Publishing](https://www.cabbagetreebooks.com/writers-blog/what-every-author-needs-to-know-before-self-publishing)
+**Related**: [5 Things Every Author Needs To Know Before Self-Publishing](https://www.benluxonauthor.com/blog/5-things-every-author-needs-to-know-before-self-publishing)
 
 ### Less Recognition
 
@@ -65,8 +65,8 @@ That being said there are plenty of self-published authors that are doing very w
 #### You Might Like
 
 -
-  [5 Key Elements To Writing A Great Fiction Novel](https://www.cabbagetreebooks.com/writers-blog/5-elements-of-a-great-novel)
+  [5 Key Elements To Writing A Great Fiction Novel](https://www.benluxonauthor.com/blog/5-key-elements-to-writing-a-great-fiction-novel)
 -
-  [How to Write Believable Characters: Character Motivation](https://www.cabbagetreebooks.com/writers-blog/how-to-write-believable-characters)
+  [How to Write Believable Characters: Character Motivation](https://www.benluxonauthor.com/blog/how-to-write-believable-characters-character-motivation)
 -
-  [5 Things Every Author Needs To Know Before Self-Publishing](https://www.cabbagetreebooks.com/writers-blog/what-every-author-needs-to-know-before-self-publishing)
+  [5 Things Every Author Needs To Know Before Self-Publishing](https://www.benluxonauthor.com/blog/5-things-every-author-needs-to-know-before-self-publishing)

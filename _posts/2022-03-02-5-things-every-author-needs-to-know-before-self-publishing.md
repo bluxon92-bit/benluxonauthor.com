@@ -72,7 +72,7 @@ For a more detailed launch plan analysis, I've put together [a simple launch pla
 
 ### **4. Amazon ads are tough **
 
-So far, I’ve skipped a few crucial steps and made several mistakes, but that wasn’t going to stop me. I wanted to get all the way through and see what else I didn’t know. To start driving sales then I decided to experiment with paid ad options. This included [Facebook ads](https://www.cabbagetreebooks.com/writers-blog/using-facebook-to-promote-book-launch), Google ads, and Amazon ads. Of the three, Amazon ads were by far the most costly and least effective. From a spend of about $120, I got 2 sales. Yep - two.
+So far, I’ve skipped a few crucial steps and made several mistakes, but that wasn’t going to stop me. I wanted to get all the way through and see what else I didn’t know. To start driving sales then I decided to experiment with paid ad options. This included [Facebook ads](https://www.benluxonauthor.com/blog/using-facebook-ads-to-grow-your-books-sales), Google ads, and Amazon ads. Of the three, Amazon ads were by far the most costly and least effective. From a spend of about $120, I got 2 sales. Yep - two.
 
 Compare this to a similar spend on Facebook where I got a total of 34 sales in the first ten days. Nothing much to write home about but I more or less broke even on ad spend. I’m currently testing out a few different ads on Facebook with varying copy and audiences to see if I can increase the conversion rate and actually turn a profit (I'll report back on these experiments in my next article).
 

@@ -16,7 +16,7 @@ Have you ever wondered what makes a story truly compelling? The answer lies in t
 
 From ancient Greek dramas to modern novels and screenplays, the five-act structure has served as a foundation for countless narratives. This structure provides writers with a framework to create engaging and cohesive stories that keep readers on the edge of their seats.
 
-By understanding the 5-act structure, writers gain a powerful tool to guide their storytelling, allowing them to [develop compelling characters](https://www.cabbagetreebooks.com/writers-blog/how-to-create-a-character-profile), [build tension](https://www.cabbagetreebooks.com/writers-blog/creating-tension-when-writing-your-book), and create impactful climaxes.
+By understanding the 5-act structure, writers gain a powerful tool to guide their storytelling, allowing them to [develop compelling characters](https://www.benluxonauthor.com/blog/the-writers-guide-how-to-create-a-character-profile), [build tension](https://www.benluxonauthor.com/blog/how-to-create-tension-when-writing-your-story), and create impactful climaxes.
 
 So, let's embark on a journey through the five acts, unravelling the secrets behind this time-honoured storytelling structure and discovering how it can elevate your writing to new heights.
 
@@ -105,13 +105,13 @@ So, whether you choose to embrace the five-act structure, Freytag's Pyramid, or 
 ### You Might Also Like
 
 -
-  [How to Write Realistic and Engaging Dialogue](https://www.cabbagetreebooks.com/writers-blog/how-to-write-realistic-dialogue)
+  [How to Write Realistic and Engaging Dialogue](https://www.benluxonauthor.com/blog/how-to-write-realistic-and-engaging-dialogue)
 -
-  [5 Key Elements To Writing A Great Fiction Novel](https://www.cabbagetreebooks.com/writers-blog/5-elements-of-a-great-novel)
+  [5 Key Elements To Writing A Great Fiction Novel](https://www.benluxonauthor.com/blog/5-key-elements-to-writing-a-great-fiction-novel)
 -
-  [How To Create Tension When Writing Your Story](https://www.cabbagetreebooks.com/writers-blog/creating-tension-when-writing-your-book)
+  [How To Create Tension When Writing Your Story](https://www.benluxonauthor.com/blog/how-to-create-tension-when-writing-your-story)
 -
-  [How to Write Believable Characters: Character Motivation](https://www.cabbagetreebooks.com/writers-blog/how-to-write-believable-characters)
+  [How to Write Believable Characters: Character Motivation](https://www.benluxonauthor.com/blog/how-to-write-believable-characters-character-motivation)
 
 
 

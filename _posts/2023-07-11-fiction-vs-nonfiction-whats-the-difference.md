@@ -40,19 +40,19 @@ One of the intriguing aspects of fiction, derived from the Latin term fictiō, i
 
 ### Literary fiction: The depths of humanity
 
-Literary fiction, also referred to as "ˈfɪk-shən ˈnä-vəl," encompasses works that prioritise [character development](https://www.cabbagetreebooks.com/writers-blog/how-to-create-a-character-profile), psychological depth, and innovative writing styles. Unlike being driven solely by plot, literary fiction delves into the exploration of human emotions, relationships, and life experiences. Synonyms for literary fiction include contemporary fiction, serious fiction, or simply literary works.
+Literary fiction, also referred to as "ˈfɪk-shən ˈnä-vəl," encompasses works that prioritise [character development](https://www.benluxonauthor.com/blog/the-writers-guide-how-to-create-a-character-profile), psychological depth, and innovative writing styles. Unlike being driven solely by plot, literary fiction delves into the exploration of human emotions, relationships, and life experiences. Synonyms for literary fiction include contemporary fiction, serious fiction, or simply literary works.
 
 Examples of literary fiction include [To Kill a Mockingbird by Harper Lee](https://amzn.to/3NK3aG1) or [The Great Gatsby by F. Scott Fitzgerald](https://amzn.to/3NHSGXQ).
 
 ### Science fiction and fantasy: New worlds and technologies
 
-[Science fiction](https://www.cabbagetreebooks.com/blog/10-sci-fi-authors) and [fantasy genres](https://www.cabbagetreebooks.com/blog/29-best-fantasy-books) take readers on captivating journeys through different realms, technologies, and extraordinary creatures. Often blending elements of imagination and science, these genres [create unique and exciting worlds](https://www.cabbagetreebooks.com/writers-blog/15-steps-to-fantasy-world-building). Science fiction and fantasy books frequently tackle profound questions concerning human nature, progress, or ethical dilemmas.
+[Science fiction](https://www.cabbagetreebooks.com/blog/10-sci-fi-authors) and [fantasy genres](https://www.cabbagetreebooks.com/blog/29-best-fantasy-books) take readers on captivating journeys through different realms, technologies, and extraordinary creatures. Often blending elements of imagination and science, these genres [create unique and exciting worlds](https://www.benluxonauthor.com/blog/15-steps-to-fantasy-world-building). Science fiction and fantasy books frequently tackle profound questions concerning human nature, progress, or ethical dilemmas.
 
 Examples of science fiction include [Foundation by Isaac Asimov](https://www.cabbagetreebooks.com/blog/best-isaac-asimov-books) and [The City and The Stars by Arthur C Clarke](https://www.cabbagetreebooks.com/blog/the-city-and-the-stars-arthur-c-clarke). Examples of fantasy include [Legend by David Gemmel](https://www.cabbagetreebooks.com/blog/david-gemmells-drenai-series) and [The Stormlight Archives by Brandon Sanderson.](https://www.cabbagetreebooks.com/blog/11-best-books-by-brandon-sanderson)
 
 ### Mystery and thriller: Unraveling crimes and keeping readers on the edge
 
-Mystery and thriller books propel readers into fast-paced and [suspenseful narratives](https://www.cabbagetreebooks.com/writers-blog/creating-tension-when-writing-your-book), consistently keeping them on the edge of their seats. These gripping tales revolve around crime, investigations, and the relentless pursuit of truth. Mystery and thriller books aim to captivate readers by keeping them guessing until the very last page.
+Mystery and thriller books propel readers into fast-paced and [suspenseful narratives](https://www.benluxonauthor.com/blog/how-to-create-tension-when-writing-your-story), consistently keeping them on the edge of their seats. These gripping tales revolve around crime, investigations, and the relentless pursuit of truth. Mystery and thriller books aim to captivate readers by keeping them guessing until the very last page.
 
 Examples of mystery and thriller books include [And Then There Were None by Agatha Christie](https://amzn.to/3rlDyrD) and [The Big Sleep by Raymond Chandler](https://amzn.to/3PIwhMB).
 
@@ -92,11 +92,11 @@ Now that we’ve explored the various fiction genres, it is time to examine the 
 
 ### Compelling characters are the heart and soul of fiction
 
-[Compelling characters](https://www.cabbagetreebooks.com/writers-blog/how-to-write-believable-characters) are the heart and soul of a great fiction book. Readers crave a connection with these characters, yearning to witness their growth, transformation, and traverse alongside them on their journey. Relatable, complex, and multi-dimensional, these characters, whether protagonists or supporting roles, bring depth and development, anchoring the story.
+[Compelling characters](https://www.benluxonauthor.com/blog/how-to-write-believable-characters-character-motivation) are the heart and soul of a great fiction book. Readers crave a connection with these characters, yearning to witness their growth, transformation, and traverse alongside them on their journey. Relatable, complex, and multi-dimensional, these characters, whether protagonists or supporting roles, bring depth and development, anchoring the story.
 
 ### Engaging plot keeps readers
 
-A great fiction book requires an engaging, suspenseful, and distinct plot. The [plot should captivate readers](https://www.cabbagetreebooks.com/writers-blog/the-5-act-structure), keeping them invested and constantly curious about what will unfold. With tension, conflict, and surprises, the plot propels readers forward, culminating in a satisfying conclusion. From crime fiction's gripping tales to the enigmatic allure of mysteries, a compelling plot is vital.
+A great fiction book requires an engaging, suspenseful, and distinct plot. The [plot should captivate readers](https://www.benluxonauthor.com/blog/what-is-the-5-act-structure-and-how-to-use-it-in-your-writing), keeping them invested and constantly curious about what will unfold. With tension, conflict, and surprises, the plot propels readers forward, culminating in a satisfying conclusion. From crime fiction's gripping tales to the enigmatic allure of mysteries, a compelling plot is vital.
 
 ### Unique settings: Breathing life into fictional worlds
 
@@ -106,13 +106,13 @@ Settings breathe life into fiction books, transporting readers to specific times
 
 A remarkable fiction book delves into universal themes and ideas, challenging readers to contemplate the world and themselves in new and profound ways. Themes can encompass love, death, identity, society, or any subject that is relevant and significant. From traversing uncharted worlds to navigating complex relationships, thought-provoking themes enrich the depth of fiction.
 
-**You might like** [93 Book Tropes That Writers Need To Know About](https://www.cabbagetreebooks.com/writers-blog/book-tropes-you-need-to-know)
+**You might like** [93 Book Tropes That Writers Need To Know About](https://www.benluxonauthor.com/blog/93-book-tropes-that-writers-need-to-know-about)
 
 ### Effective writing style: Artistry in words
 
 A great fiction book exhibits an effective, evocative, and memorable writing style. The writing style utilises language in a unique and creative manner, crafting a distinctive voice that sets the book apart from others. It captivates readers, rendering the narrative engaging and easily digestible, ensuring their immersion from beginning to end. Whether found in crime fiction or literary masterpieces, an effective writing style elevates the reading experience.
 
-**You might like** [How To Write Realistic And Engaging Dialogue](https://www.cabbagetreebooks.com/writers-blog/how-to-write-realistic-dialogue)
+**You might like** [How To Write Realistic And Engaging Dialogue](https://www.benluxonauthor.com/blog/how-to-write-realistic-and-engaging-dialogue)
 
 In the realm of fiction, a remarkable book intertwines these essential elements, forging a captivating tapestry that enchants readers, leaves an indelible mark, and withstands the test of time.
 

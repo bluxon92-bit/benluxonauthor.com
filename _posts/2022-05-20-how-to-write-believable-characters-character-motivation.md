@@ -16,7 +16,7 @@ In this article, we take a closer look at some of the key questions that writers
 
 Simply put, character motivation is the reason behind a character's actions in any given scene in the story. It is their driving force. For example, if you were writing a heist story each of the characters would need a reason to be taking that risk. They might be desperate for money or maybe they want revenge against the target. Each of these motivations opens up interesting potential directions in the story.
 
-Character motivation is at [the very heart of the character profile](https://www.cabbagetreebooks.com/writers-blog/how-to-create-a-character-profile) and is absolutely necessary if you want to create a believable character. It can be anything, from an external need for survival to psychological or existential drives such as love, grief, or achievement.
+Character motivation is at [the very heart of the character profile](https://www.benluxonauthor.com/blog/the-writers-guide-how-to-create-a-character-profile) and is absolutely necessary if you want to create a believable character. It can be anything, from an external need for survival to psychological or existential drives such as love, grief, or achievement.
 
 ## Why do writers need to understand the character’s motivations?
 
@@ -122,8 +122,8 @@ For some writers, character motivation comes easy — their instinct is to think
 ### You Might Like
 
 -
-  [The Writer’s Guide: How To Create A Character Profile](https://www.cabbagetreebooks.com/writers-blog/how-to-create-a-character-profile)
+  [The Writer’s Guide: How To Create A Character Profile](https://www.benluxonauthor.com/blog/the-writers-guide-how-to-create-a-character-profile)
 -
-  [The Pros and Cons of Self-Publishing](https://www.cabbagetreebooks.com/writers-blog/pros-and-cons-of-self-publishing)
+  [The Pros and Cons of Self-Publishing](https://www.benluxonauthor.com/blog/the-pros-and-cons-of-self-publishing)
 -
   [How To Read David Gemmell's Drenai Series](https://www.cabbagetreebooks.com/blog/david-gemmells-drenai-series)

@@ -42,7 +42,7 @@ In this article, we'll be exploring 93 of the most common book tropes that every
 
 ## What is a Book Trope?
 
-A book trope is a commonly used plot device, [character type](https://www.cabbagetreebooks.com/writers-blog/how-to-create-a-character-profile), or literary technique that has become recognizable and familiar to readers. Tropes can be used in a variety of genres and media, from novels and movies to television shows and video games. They are often used as a way to create familiarity and connection with readers, who may find comfort in recognizing familiar patterns and elements in the stories they consume. However, tropes can also be criticized for being overused or predictable, and some writers strive to subvert or deconstruct tropes in order to create more unique and original stories.
+A book trope is a commonly used plot device, [character type](https://www.benluxonauthor.com/blog/the-writers-guide-how-to-create-a-character-profile), or literary technique that has become recognizable and familiar to readers. Tropes can be used in a variety of genres and media, from novels and movies to television shows and video games. They are often used as a way to create familiarity and connection with readers, who may find comfort in recognizing familiar patterns and elements in the stories they consume. However, tropes can also be criticized for being overused or predictable, and some writers strive to subvert or deconstruct tropes in order to create more unique and original stories.
 
 ## Are Book Tropes Good or Bad?
 
@@ -80,7 +80,7 @@ Ultimately, it's up to the writer to use tropes in a way that is fresh, interest
 22.   The mysterious ancient ruins/civilization: A mysterious, ancient civilization or ruins that hold secrets and powerful artefacts.
 23.   The chosen one's destiny: A trope that follows the protagonist's destiny or fate, often tied to their status as the chosen one.
 24.   The unlikely group of heroes: A group of unlikely heroes who band together to save the world.
-25.   The dark magic corrupting the protagonist: A trope where dark magic or an evil force corrupts the [protagonist or a character](https://www.cabbagetreebooks.com/writers-blog/how-to-write-believable-characters) close to them.
+25.   The dark magic corrupting the protagonist: A trope where dark magic or an evil force corrupts the [protagonist or a character](https://www.benluxonauthor.com/blog/how-to-write-believable-characters-character-motivation) close to them.
 26.   The forbidden romance: A romance between characters who are forbidden from being together.
 27.   The magic mirror/portal to another world: A magical mirror or portal that leads to another world or dimension.
 28.   The magical creatures in hiding from humans: A trope where magical creatures hide from humans to avoid persecution or harm.
@@ -102,7 +102,7 @@ Ultimately, it's up to the writer to use tropes in a way that is fresh, interest
 6.   The virgin heroine: A protagonist who is inexperienced in love and sex.
 7.   The alpha male hero: A strong, dominant male protagonist who often takes charge and protects their love interest.
 8.   The damsel in distress: A female protagonist who needs rescuing from danger or trouble.
-9.   The love/hate relationship: A relationship between protagonists where they have a love/hate dynamic, often with lots of [arguments and tension](https://www.cabbagetreebooks.com/writers-blog/creating-tension-when-writing-your-book).
+9.   The love/hate relationship: A relationship between protagonists where they have a love/hate dynamic, often with lots of [arguments and tension](https://www.benluxonauthor.com/blog/how-to-create-tension-when-writing-your-story).
 10.   The best friends to lovers: A plot where two best friends realize their feelings for each other and begin a romantic relationship.
 11.   The sudden makeover or transformation of the protagonist: A transformation of the protagonist's appearance or behaviour that makes them more attractive to the love interest.
 12.   The makeover of the love interest: A transformation of the love interest's appearance or behaviour that makes them more attractive to the protagonist.
@@ -175,9 +175,9 @@ By avoiding overused or predictable book tropes, and adding your own original sp
 ### You Might Like
 
 -
-  [15 Steps to Fantasy World-Building](https://www.cabbagetreebooks.com/writers-blog/15-steps-to-fantasy-world-building)
+  [15 Steps to Fantasy World-Building](https://www.benluxonauthor.com/blog/15-steps-to-fantasy-world-building)
 -
-  [5 Key Elements To Writing A Great Fiction Novel](https://www.cabbagetreebooks.com/writers-blog/5-elements-of-a-great-novel)
+  [5 Key Elements To Writing A Great Fiction Novel](https://www.benluxonauthor.com/blog/5-key-elements-to-writing-a-great-fiction-novel)
 -
   [Top 10 Books Like Harry Potter For Lovers of Magical Fiction](https://www.cabbagetreebooks.com/blog/books-like-harry-potter)
 -

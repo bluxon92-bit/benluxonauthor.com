@@ -22,7 +22,7 @@ The ticking clock is a classic device used in thrillers, but it can work in any 
 
 ### 3. Tease The Reader with Withheld Information
 
-Sometimes, the best way to create tension is by holding back information. Instead of revealing everything at once, tease the reader with incomplete descriptions and hints. Create obstacles that distract the [characters](https://www.cabbagetreebooks.com/writers-blog/how-to-create-a-character-profile) and draw out the suspense. By gradually revealing the information, you can keep the reader guessing. Additionally, if done well, your readers will slowly be able to put together the clues just as your protagonist does so when you get to the reveal at the end everything just falls into place.
+Sometimes, the best way to create tension is by holding back information. Instead of revealing everything at once, tease the reader with incomplete descriptions and hints. Create obstacles that distract the [characters](https://www.benluxonauthor.com/blog/the-writers-guide-how-to-create-a-character-profile) and draw out the suspense. By gradually revealing the information, you can keep the reader guessing. Additionally, if done well, your readers will slowly be able to put together the clues just as your protagonist does so when you get to the reveal at the end everything just falls into place.
 
 ### 4. Create an Unexpected Plot Twist
 
@@ -36,7 +36,7 @@ Conflict is the driving force of any story. By introducing new problems and obst
 
 ### 6. Develop Your Character’s Backstory
 
-[Developing your character's](https://www.cabbagetreebooks.com/writers-blog/how-to-write-believable-characters) backstory can be a rich source of tension. By revealing their unseen character traits and secrets, you add depth and complexity to the story. What have they been hiding, and how will it affect those around them? By exploring your characters' true selves, you can create tension and drive the story forward.
+[Developing your character's](https://www.benluxonauthor.com/blog/how-to-write-believable-characters-character-motivation) backstory can be a rich source of tension. By revealing their unseen character traits and secrets, you add depth and complexity to the story. What have they been hiding, and how will it affect those around them? By exploring your characters' true selves, you can create tension and drive the story forward.
 
 ### 7. Use Cliffhangers
 
@@ -44,7 +44,7 @@ A cliffhanger is a powerful way to keep readers engaged. By posing big questions
 
 ### 8. Introduce Secondary Characters with Opposing Goals
 
-This is one way of introducing new conflict. By introducing a second [character with their own goals and motivations](https://www.cabbagetreebooks.com/writers-blog/how-to-write-believable-characters) you set up an inevitable clash, which, as you get closer and closer will create more and more tension. Done well it’s an opportunity for dynamic character relationships that will keep your readers invested in the story. Remember that characters don’t have to be likeable to be interesting.
+This is one way of introducing new conflict. By introducing a second [character with their own goals and motivations](https://www.benluxonauthor.com/blog/how-to-write-believable-characters-character-motivation) you set up an inevitable clash, which, as you get closer and closer will create more and more tension. Done well it’s an opportunity for dynamic character relationships that will keep your readers invested in the story. Remember that characters don’t have to be likeable to be interesting.
 
 ### 9. Raise The Stakes
 
@@ -65,10 +65,10 @@ Tension is an essential element but it can be hard to do effectively. How do you
 #### You Might Like
 
 -
-  [5 Key Elements To Writing A Great Fiction Novel](https://www.cabbagetreebooks.com/writers-blog/5-elements-of-a-great-novel)
+  [5 Key Elements To Writing A Great Fiction Novel](https://www.benluxonauthor.com/blog/5-key-elements-to-writing-a-great-fiction-novel)
 -
-  [The Pros and Cons of Self-Publishing](https://www.cabbagetreebooks.com/writers-blog/pros-and-cons-of-self-publishing)
+  [The Pros and Cons of Self-Publishing](https://www.benluxonauthor.com/blog/the-pros-and-cons-of-self-publishing)
 -
-  [The Writer’s Guide: How To Create A Character Profile](https://www.cabbagetreebooks.com/writers-blog/how-to-create-a-character-profile)
+  [The Writer’s Guide: How To Create A Character Profile](https://www.benluxonauthor.com/blog/the-writers-guide-how-to-create-a-character-profile)
 -
-  [15 Steps to Fantasy World-Building](https://www.cabbagetreebooks.com/writers-blog/15-steps-to-fantasy-world-building)
+  [15 Steps to Fantasy World-Building](https://www.benluxonauthor.com/blog/15-steps-to-fantasy-world-building)
