@@ -3,7 +3,7 @@ layout: post
 title: "5 Key Elements To Writing A Great Fiction Novel"
 date: 2022-09-14
 category: Writing Advice
-excerpt: "As a writer you want to create something original, something that draws the reader in, holds them by the collar and sets them down right at the end out of breath and as a changed person. You want to impress with unique i"
+excerpt: "5 key elements of great fiction writing — plot, character, tension, voice, and structure. The foundations every novelist needs."
 ---
 
 ![](https://images.squarespace-cdn.com/content/v1/61dd3a4e102f883537ae2f1d/51094c6a-2e36-40eb-98f7-9933b5df26af/how+to+write+a+great+story+%281%29.jpg)

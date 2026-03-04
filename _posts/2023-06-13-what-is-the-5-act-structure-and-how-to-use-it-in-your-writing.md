@@ -3,7 +3,7 @@ layout: post
 title: "What Is The 5 Act Structure And How to Use It In Your Writing"
 date: 2023-06-13
 category: Writing Advice
-excerpt: "This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer here(https://www.cabbagetreebooks.com/cookies)."
+excerpt: "The 5 act structure explained — what it is, how it works, and how to use it to shape a more compelling, structured story."
 ---
 
 ![](https://images.squarespace-cdn.com/content/v1/61dd3a4e102f883537ae2f1d/a2be38bb-e745-417d-9a91-793e31f682fb/act+2+act+structure++%281%29.jpeg)

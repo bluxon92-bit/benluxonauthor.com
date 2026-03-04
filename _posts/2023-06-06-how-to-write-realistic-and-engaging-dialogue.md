@@ -3,7 +3,7 @@ layout: post
 title: "How To Write Realistic And Engaging Dialogue"
 date: 2023-06-06
 category: Writing Advice
-excerpt: "Dialogue is the lifeblood of storytelling. It has the power to captivate readers, breathe life into characters, and propel the narrative forward. Writing realistic and engaging dialogue is an art that every writer aspire"
+excerpt: "How to write realistic dialogue — craft conversation that reveals character, advances plot, and keeps readers fully engaged."
 permalink: /blog/how-to-write-realistic-and-engaging-dialogue/
 redirect_from:
   - /writers-blog/how-to-write-realistic-dialogue/

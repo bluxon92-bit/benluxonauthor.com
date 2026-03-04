@@ -3,7 +3,7 @@ layout: post
 title: "How to Write Believable Characters: Character Motivation"
 date: 2022-05-20
 category: Writing Advice
-excerpt: "While readers will happily suspend their disbelief for anything from fantasy stories(https://www.cabbagetreebooks.com/blog/fantasy-short-stories) with dragons to horror stories with ghosts, nothing brings them out of a s"
+excerpt: "Character motivation in fiction — how to write believable characters whose choices and actions feel earned and authentic."
 permalink: /blog/how-to-write-believable-characters-character-motivation/
 redirect_from:
   - /writers-blog/how-to-write-believable-characters/

@@ -3,7 +3,7 @@ layout: post
 title: "9 Actionable Tips On How To Write Great Dialogue"
 date: 2023-06-21
 category: Writing Advice
-excerpt: "Great dialogue is a vital component of any compelling piece of writing, whether it's a novel, screenplay, or short story. Dialogue has the power to bring characters to life, drive the plot forward, and immerse readers in"
+excerpt: "9 actionable tips for writing great dialogue — practical techniques to make your characters' conversations feel vivid and real."
 ---
 
 ![](https://images.squarespace-cdn.com/content/v1/61dd3a4e102f883537ae2f1d/88c3be0b-34f7-449e-a611-9550d1d86f43/writing+dialogue+%281%29.jpeg)

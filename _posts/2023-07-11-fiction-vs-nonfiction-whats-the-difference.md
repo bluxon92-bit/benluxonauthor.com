@@ -3,7 +3,7 @@ layout: post
 title: "Fiction vs nonfiction: What’s the difference?"
 date: 2023-07-11
 category: Writing Advice
-excerpt: "This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer here(https://www.cabbagetreebooks.com/cookies)."
+excerpt: "Fiction vs nonfiction — the key differences explained for readers and writers, with examples and guidance on choosing your genre."
 ---
 
 *This post may contain affiliate links. As an Amazon Affiliate, I may earn a small commission from qualifying purchases at no extra cost to you. Read the full disclaimer *[*here*](https://www.cabbagetreebooks.com/cookies)*.*

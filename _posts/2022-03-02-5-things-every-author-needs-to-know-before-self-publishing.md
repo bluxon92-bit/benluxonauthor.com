@@ -3,7 +3,7 @@ layout: post
 title: "5 Things Every Author Needs To Know Before Self-Publishing"
 date: 2022-03-02
 category: Self-Publishing
-excerpt: "I recently self-published my first book. It was a baptism by fire. Inevitably, I made mistakes, things took longer than perhaps they should have. So, I wanted to collect a few of the key lessons I learned through the pro"
+excerpt: "5 things every author needs to know before self-publishing — editing, formatting, and building your audience, from a published author."
 ---
 
 ![](https://images.squarespace-cdn.com/content/v1/61dd3a4e102f883537ae2f1d/1646208361382-AZKOAH17VYAPVFXX5ER1/unsplash-image-Ak5c5VTch5E.jpg)

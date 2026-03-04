@@ -3,7 +3,7 @@ layout: post
 title: "How To Create Tension When Writing Your Story"
 date: 2023-04-21
 category: Writing Advice
-excerpt: "Tension is a critical element in any story. It keeps readers engaged, invested, and on the edge of their seats. But how do you create tension in your writing? In this article, we'll explore ten ways to build tension in y"
+excerpt: "How to create tension in your story — 10 techniques to keep readers hooked, from the inciting incident to the final page."
 ---
 
 ![](https://images.squarespace-cdn.com/content/v1/61dd3a4e102f883537ae2f1d/1d0940b9-211d-40ee-b6a3-014e965ca455/writing+tension+%281%29.jpg)

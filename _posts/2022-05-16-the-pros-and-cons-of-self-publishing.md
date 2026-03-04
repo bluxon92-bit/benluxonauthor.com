@@ -3,7 +3,7 @@ layout: post
 title: "The Pros and Cons of Self-Publishing"
 date: 2022-05-16
 category: Self-Publishing
-excerpt: "Self-publishing is one way for authors to get their work out there into the world. It means that you don’t need to wait on publishing houses to respond to your queries, and you don’t need to make your work fit into someo"
+excerpt: "Pros and cons of self-publishing explained — creative control, royalties, and the real trade-offs every author should weigh up."
 ---
 
 ![](https://images.squarespace-cdn.com/content/v1/61dd3a4e102f883537ae2f1d/e7ce5620-f0d4-412b-87ee-01f3221bce14/ebook+self-publsihing+pros+and+cons+%281%29.jpeg)

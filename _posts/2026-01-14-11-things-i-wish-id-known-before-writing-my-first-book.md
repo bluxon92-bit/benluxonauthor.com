@@ -3,7 +3,7 @@ layout: post
 title: "11 Things I Wish I'd Known Before Writing My First Book"
 date: 2026-01-14
 category: Writing Advice
-excerpt: "A lot of the time when you think about authors, you think about the literary greats. You think about those stories people gush over and over — Orwell and Dostoyevsky, Austen and Le Guin(/blog/the-best-sci-fi-books-by-urs"
+excerpt: "11 things I wish I'd known before writing my first book — honest lessons on craft, process, and mindset from a published author."
 ---
 
 ![](https://images.squarespace-cdn.com/content/v1/61dd3a4e102f883537ae2f1d/be28d511-31a4-4a0b-b688-8cd9b5ca5a53/writing+can+be+messy.jpg)

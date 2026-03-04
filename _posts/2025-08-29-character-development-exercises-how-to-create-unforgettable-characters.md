@@ -3,7 +3,7 @@ layout: post
 title: "Character Development Exercises: How to Create Unforgettable Characters"
 date: 2025-08-29
 category: Writing Advice
-excerpt: "Every gripping story, no matter how packed with action or plot twists, hinges on one essential element: compelling characters. You can have a world-ending disaster, an epic sword fight, or a mind-bending mystery—but if y"
+excerpt: "Character development exercises for writers — practical techniques to build unforgettable characters your readers will care about."
 ---
 
 ![](https://images.squarespace-cdn.com/content/v1/61dd3a4e102f883537ae2f1d/1745987499094-ACO857YNJETM40PN3K0P/writing+character+%281%29.jpg)

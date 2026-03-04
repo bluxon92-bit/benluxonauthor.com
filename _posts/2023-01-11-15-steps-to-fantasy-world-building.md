@@ -3,7 +3,7 @@ layout: post
 title: "15 Steps to Fantasy World-Building"
 date: 2023-01-11
 category: World-Building
-excerpt: "Worldbuilding is the process of creating an imaginary world or universe for the purpose of telling a story. It is a crucial element of fiction writing, especially in the fantasy and science fiction genres."
+excerpt: "Fantasy world-building in 15 steps — how to create an immersive, believable fictional world for your novel from the ground up."
 ---
 
 ![](https://images.squarespace-cdn.com/content/v1/61dd3a4e102f883537ae2f1d/1673399335759-SQ9P6COAREOAUMIWRH1P/fantasy+world+dragon+%281%29.jpg)

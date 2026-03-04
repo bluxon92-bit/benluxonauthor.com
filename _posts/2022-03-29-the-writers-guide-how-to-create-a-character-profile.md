@@ -3,7 +3,7 @@ layout: post
 title: "The Writer’s Guide: How To Create A Character Profile"
 date: 2022-03-29
 category: Writing Advice
-excerpt: "At the centre of every great story(https://www.cabbagetreebooks.com/blog/david-gemmells-drenai-series) is a cast of characters that convince you to read on, that almost become your friends. They have motivations, arcs, d"
+excerpt: "How to create a character profile — a writer's guide to building deep, convincing characters with motivation, arc, and personality."
 permalink: /blog/the-writers-guide-how-to-create-a-character-profile/
 redirect_from:
   - /writers-blog/how-to-create-a-character-profile/
