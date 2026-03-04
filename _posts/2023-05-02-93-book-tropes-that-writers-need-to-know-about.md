@@ -15,6 +15,9 @@ excerpt: "-
   31 Sci-fi Book Tropes
 -
   Using Book Tropes: Final Words"
+permalink: /blog/93-book-tropes-that-writers-need-to-know-about/
+redirect_from:
+  - /writers-blog/book-tropes-you-need-to-know/
 ---
 
 ![](https://images.squarespace-cdn.com/content/v1/61dd3a4e102f883537ae2f1d/9d0570e4-c960-458c-a64e-e54cff9f1893/books+2+%281%29.jpeg)
