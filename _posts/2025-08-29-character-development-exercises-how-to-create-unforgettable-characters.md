@@ -18,9 +18,9 @@ Let’s break it down: Character development is the process of building multi-di
 
 **So, what is character development?** It’s the art of transforming your characters from simple concepts into fully fleshed-out individuals with emotional depth and purpose. Done right, it gives your readers a reason to root for (or against) your characters as they navigate the story world.
 
-Whether you’re [plotting your novel](/writers-blog/the-5-act-structure) or pantsing your way through a first draft, strong character development is the glue that holds it all together.
+Whether you’re [plotting your novel](/blog/what-is-the-5-act-structure-and-how-to-use-it-in-your-writing) or pantsing your way through a first draft, strong character development is the glue that holds it all together.
 
-**Related**: [Static vs Dynamic Characters: What They Are and Why They Matter in Storytelling](https://www.benluxonauthor.com/writers-blog/static-vs-dynamic-characters)
+**Related**: [Static vs Dynamic Characters: What They Are and Why They Matter in Storytelling](/blog/static-vs-dynamic-characters-what-they-are-and-why-they-matter-in-storytell)
 
 ## **How to Develop a Character: The Three-Phase Framework**
 
@@ -170,7 +170,7 @@ Try this: list your character’s physical traits, then write a short scene (coo
 
 ## **Bonus: Use a Character Development Template**
 
-Need help organising all these juicy details? A [character development template](/writers-blog/how-to-create-a-character-profile) can keep you from getting lost in your notes. Look for one that includes:
+Need help organising all these juicy details? A [character development template](/blog/the-writers-guide-how-to-create-a-character-profile) can keep you from getting lost in your notes. Look for one that includes:
 
 -
   Backstory
@@ -183,7 +183,7 @@ Need help organising all these juicy details? A [character development template]
 -
   Key relationships
 -
-  [Dialogue](/writers-blog/how-to-write-realistic-dialogue) samples
+  [Dialogue](/blog/how-to-write-realistic-and-engaging-dialogue) samples
 -
   Turning points
 

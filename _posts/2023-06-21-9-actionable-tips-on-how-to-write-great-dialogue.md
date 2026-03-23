@@ -12,7 +12,7 @@ Great dialogue is a vital component of any compelling piece of writing, whether 
 
 However, writing dialogue can be tricky. Done poorly it can be jarring and ruin the immersion for the reader.
 
-In this guide on how to write dialogue, we explore nine actionable tips that will help you write exceptional dialogue. From [creating realistic conversations](https://www.benluxonauthor.com/blog/how-to-write-realistic-and-engaging-dialogue) to mastering the art of subtext, we cover a range of techniques that will elevate your dialogue and take your writing to a whole new level.
+In this guide on how to write dialogue, we explore nine actionable tips that will help you write exceptional dialogue. From [creating realistic conversations](/blog/how-to-write-realistic-and-engaging-dialogue) to mastering the art of subtext, we cover a range of techniques that will elevate your dialogue and take your writing to a whole new level.
 
 ## Here are our 9 tips for writing great dialogue
 
@@ -98,11 +98,11 @@ Exposition is best when it blends seamlessly into the narrative fabric, rather t
 
 Seek opportunities to reveal essential details through actions, character interactions, or gradual revelations instead of relying solely on dialogue-based explanations.
 
-**You may also like our article** [How To Write Realistic And Engaging Dialogue](https://www.benluxonauthor.com/blog/how-to-write-realistic-and-engaging-dialogue)
+**You may also like our article** [How To Write Realistic And Engaging Dialogue](/blog/how-to-write-realistic-and-engaging-dialogue)
 
 ## 7. Employ Catchphrases and Quirks with Care
 
-Introducing a catchphrase or quirk to a character, such as Jay Gatsby's "old sport" or [Dolores Umbridge's](https://www.cabbagetreebooks.com/blog/books-like-harry-potter) "hem hem," can imbue them with a distinctive and recognizable voice. However, like any character quirk, moderation is key to their effectiveness.
+Introducing a catchphrase or quirk to a character, such as Jay Gatsby's "old sport" or [Dolores Umbridge's](https://www.litloop.co/blog/books-like-harry-potter) "hem hem," can imbue them with a distinctive and recognizable voice. However, like any character quirk, moderation is key to their effectiveness.
 
 To begin with, it's crucial to avoid excessive repetition of the catchphrase. Overusing it may startle readers and disrupt the natural flow of the dialogue. As [Elmore Leonard](https://www.elmoreleonard.com) aptly noted, the writer should not intrude upon the dialogue, and an excessive injection of the quirk can draw unwanted attention to the author's presence on the page.
 
@@ -147,10 +147,10 @@ Once you've honed your ability to create compelling conversations, the next step
 ### You Might Also Like
 
 -
-  [93 Book Tropes That Writers Need To Know About](https://www.benluxonauthor.com/blog/93-book-tropes-that-writers-need-to-know-about)
+  [93 Book Tropes That Writers Need To Know About](/blog/93-book-tropes-that-writers-need-to-know-about)
 -
-  [The Writer’s Guide: How To Create A Character Profile](https://www.benluxonauthor.com/blog/the-writers-guide-how-to-create-a-character-profile)
+  [The Writer’s Guide: How To Create A Character Profile](/blog/the-writers-guide-how-to-create-a-character-profile)
 -
-  [5 Things Every Author Needs To Know Before Self-Publishing](https://www.benluxonauthor.com/blog/5-things-every-author-needs-to-know-before-self-publishing)
+  [5 Things Every Author Needs To Know Before Self-Publishing](/blog/5-things-every-author-needs-to-know-before-self-publishing)
 -
-  [What Is The 5 Act Structure? And How To Use It In Your Writing](https://www.benluxonauthor.com/blog/what-is-the-5-act-structure-and-how-to-use-it-in-your-writing)
+  [What Is The 5 Act Structure? And How To Use It In Your Writing](/blog/what-is-the-5-act-structure-and-how-to-use-it-in-your-writing)

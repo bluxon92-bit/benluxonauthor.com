@@ -17,7 +17,7 @@ excerpt: "-
   Using Book Tropes: Final Words"
 permalink: /blog/93-book-tropes-that-writers-need-to-know-about/
 redirect_from:
-  - /writers-blog/book-tropes-you-need-to-know/
+  - /blog/93-book-tropes-that-writers-need-to-know-about/
 ---
 
 ![](https://images.squarespace-cdn.com/content/v1/61dd3a4e102f883537ae2f1d/9d0570e4-c960-458c-a64e-e54cff9f1893/books+2+%281%29.jpeg)
@@ -39,13 +39,13 @@ Contents
 
 ---
 
-As a writer, one of the biggest challenges you'll face is creating a story that is both engaging and unique. While there are countless ways to accomplish this, understanding the common tropes and conventions of your genre is a crucial first step. Whether you're writing a [fantasy epic](https://www.cabbagetreebooks.com/blog/11-best-books-by-brandon-sanderson), a steamy romance, or a suspenseful thriller, knowing the book tropes that are often used can help you to craft a story that is both familiar and fresh.
+As a writer, one of the biggest challenges you'll face is creating a story that is both engaging and unique. While there are countless ways to accomplish this, understanding the common tropes and conventions of your genre is a crucial first step. Whether you're writing a [fantasy epic](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson), a steamy romance, or a suspenseful thriller, knowing the book tropes that are often used can help you to craft a story that is both familiar and fresh.
 
 In this article, we'll be exploring 93 of the most common book tropes that every writer needs to know, with a particular focus on **sci-fi tropes, fantasy tropes, and romance tropes**. By understanding these tropes and how to use them effectively, you'll be able to create stories that resonate with readers and stand out in a crowded market.
 
 ## What is a Book Trope?
 
-A book trope is a commonly used plot device, [character type](https://www.benluxonauthor.com/blog/the-writers-guide-how-to-create-a-character-profile), or literary technique that has become recognizable and familiar to readers. Tropes can be used in a variety of genres and media, from novels and movies to television shows and video games. They are often used as a way to create familiarity and connection with readers, who may find comfort in recognizing familiar patterns and elements in the stories they consume. However, tropes can also be criticized for being overused or predictable, and some writers strive to subvert or deconstruct tropes in order to create more unique and original stories.
+A book trope is a commonly used plot device, [character type](/blog/the-writers-guide-how-to-create-a-character-profile), or literary technique that has become recognizable and familiar to readers. Tropes can be used in a variety of genres and media, from novels and movies to television shows and video games. They are often used as a way to create familiarity and connection with readers, who may find comfort in recognizing familiar patterns and elements in the stories they consume. However, tropes can also be criticized for being overused or predictable, and some writers strive to subvert or deconstruct tropes in order to create more unique and original stories.
 
 ## Are Book Tropes Good or Bad?
 
@@ -66,10 +66,10 @@ Ultimately, it's up to the writer to use tropes in a way that is fresh, interest
 5.   The medieval setting: A setting inspired by medieval Europe with knights, castles, and monarchies.
 6.   The magical MacGuffin: A powerful object or artefact that drives the plot and is often sought after by multiple parties.
 7.   The evil dark lord/villain: An ultimate evil or villain that the protagonist must defeat to save the world.
-8.   The hidden magical world: [A secret world of magic and fantasy](https://www.cabbagetreebooks.com/blog/books-like-harry-potter) that is hidden from the human world.
+8.   The hidden magical world: [A secret world of magic and fantasy](https://www.litloop.co/blog/books-like-harry-potter) that is hidden from the human world.
 9.   The prophecy: A prediction or foretelling of events that will come true and often drives the plot.
 10.   The magical artefact/weapon: A magical object or weapon that is often a key component in the story's conflict.
-11.   The dragon/monster hunt: A story that involves hunting or defeating mythical creatures like [dragons](https://www.cabbagetreebooks.com/blog/robin-hobb-farseer-and-beyond) or monsters.
+11.   The dragon/monster hunt: A story that involves hunting or defeating mythical creatures like [dragons](https://www.litloop.co/blog/robin-hobb-farseer-and-beyond) or monsters.
 12.   The magic school/academy: A school or academy for magic users to learn and hone their skills.
 13.   The princess in distress: A trope where a princess is in trouble and needs saving by the protagonist.
 14.   The sidekick or comic relief character: A supporting character who provides comic relief and often accompanies the protagonist on their journey.
@@ -83,7 +83,7 @@ Ultimately, it's up to the writer to use tropes in a way that is fresh, interest
 22.   The mysterious ancient ruins/civilization: A mysterious, ancient civilization or ruins that hold secrets and powerful artefacts.
 23.   The chosen one's destiny: A trope that follows the protagonist's destiny or fate, often tied to their status as the chosen one.
 24.   The unlikely group of heroes: A group of unlikely heroes who band together to save the world.
-25.   The dark magic corrupting the protagonist: A trope where dark magic or an evil force corrupts the [protagonist or a character](https://www.benluxonauthor.com/blog/how-to-write-believable-characters-character-motivation) close to them.
+25.   The dark magic corrupting the protagonist: A trope where dark magic or an evil force corrupts the [protagonist or a character](/blog/how-to-write-believable-characters-character-motivation) close to them.
 26.   The forbidden romance: A romance between characters who are forbidden from being together.
 27.   The magic mirror/portal to another world: A magical mirror or portal that leads to another world or dimension.
 28.   The magical creatures in hiding from humans: A trope where magical creatures hide from humans to avoid persecution or harm.
@@ -91,7 +91,7 @@ Ultimately, it's up to the writer to use tropes in a way that is fresh, interest
 30.   The reincarnation of a powerful figure: A character who is a reincarnation of a powerful or important figure from the past.
 31.   The magic system with strict rules and limitations: A magic system with strict rules and limitations that govern how magic can be used in the story.
 
-**If you like fantasy you’ll love our article **[**31 Best Fantasy Books You Need To Read Today**](https://www.cabbagetreebooks.com/blog/29-best-fantasy-books)
+**If you like fantasy you’ll love our article **[**31 Best Fantasy Books You Need To Read Today**](https://www.litloop.co/blog/29-best-fantasy-books)
 
 ## 31 Romance Book Tropes
 
@@ -105,7 +105,7 @@ Ultimately, it's up to the writer to use tropes in a way that is fresh, interest
 6.   The virgin heroine: A protagonist who is inexperienced in love and sex.
 7.   The alpha male hero: A strong, dominant male protagonist who often takes charge and protects their love interest.
 8.   The damsel in distress: A female protagonist who needs rescuing from danger or trouble.
-9.   The love/hate relationship: A relationship between protagonists where they have a love/hate dynamic, often with lots of [arguments and tension](https://www.benluxonauthor.com/blog/how-to-create-tension-when-writing-your-story).
+9.   The love/hate relationship: A relationship between protagonists where they have a love/hate dynamic, often with lots of [arguments and tension](/blog/how-to-create-tension-when-writing-your-story).
 10.   The best friends to lovers: A plot where two best friends realize their feelings for each other and begin a romantic relationship.
 11.   The sudden makeover or transformation of the protagonist: A transformation of the protagonist's appearance or behaviour that makes them more attractive to the love interest.
 12.   The makeover of the love interest: A transformation of the love interest's appearance or behaviour that makes them more attractive to the protagonist.
@@ -129,7 +129,7 @@ Ultimately, it's up to the writer to use tropes in a way that is fresh, interest
 30.   The marriage in crisis: A plot where a married couple faces challenges and must work to save their relationship.
 31.   The holiday romance: When love strikes on a holiday getaway and the characters have to figure out whether it can become part of their every day, or should they just abandon it as a fling?
 
-**You may also like **[**9 Dystopian Novels That Will Change How You View The World** ](https://www.cabbagetreebooks.com/blog/9-dystopian-novels-to-read)
+**You may also like **[**9 Dystopian Novels That Will Change How You View The World** ](https://www.litloop.co/blog/9-dystopian-novels-to-read)
 
 ## 31 Sci-Fi Book Tropes
 
@@ -140,7 +140,7 @@ Ultimately, it's up to the writer to use tropes in a way that is fresh, interest
 3.   The mad scientist: A scientist who has gone rogue or becomes obsessed with their own work to the detriment of others.
 4.   The dystopian future: A future society that is characterized by oppression, suffering, or chaos.
 5.   The time travel paradox: A plot where time travel leads to a paradoxical situation or a disruption of the timeline.
-6.   The killer robot or AI: [A plot where robots or artificial intelligence turn against humanity](https://www.cabbagetreebooks.com/blog/best-isaac-asimov-books).
+6.   The killer robot or AI: [A plot where robots or artificial intelligence turn against humanity](https://www.litloop.co/blog/best-isaac-asimov-books).
 7.   The chosen one: A protagonist who is chosen by fate or prophecy to save the world.
 8.   The teleportation mishap: A plot where teleportation goes wrong, leading to unexpected consequences.
 9.   The intergalactic war: A plot where different alien civilizations are at war with each other.
@@ -167,7 +167,7 @@ Ultimately, it's up to the writer to use tropes in a way that is fresh, interest
 30.   The alien artefact or mystery: A plot where an alien artefact or mystery is discovered or explored.
 31.   The hard science or technical jargon: A plot where scientific or technical concepts are explained in great detail.
 
-**If you’re a fan of sci-fi check out our article **[**13 Classic Science Fiction Short Stories You Need To Read**](https://www.cabbagetreebooks.com/blog/12-classic-science-fiction-short-stories-you-need-to-read)**.**
+**If you’re a fan of sci-fi check out our article **[**13 Classic Science Fiction Short Stories You Need To Read**](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)**.**
 
 ## Using Book Tropes: Final Words
 
@@ -178,10 +178,10 @@ By avoiding overused or predictable book tropes, and adding your own original sp
 ### You Might Like
 
 -
-  [15 Steps to Fantasy World-Building](https://www.benluxonauthor.com/blog/15-steps-to-fantasy-world-building)
+  [15 Steps to Fantasy World-Building](/blog/15-steps-to-fantasy-world-building)
 -
-  [5 Key Elements To Writing A Great Fiction Novel](https://www.benluxonauthor.com/blog/5-key-elements-to-writing-a-great-fiction-novel)
+  [5 Key Elements To Writing A Great Fiction Novel](/blog/5-key-elements-to-writing-a-great-fiction-novel)
 -
-  [Top 10 Books Like Harry Potter For Lovers of Magical Fiction](https://www.cabbagetreebooks.com/blog/books-like-harry-potter)
+  [Top 10 Books Like Harry Potter For Lovers of Magical Fiction](https://www.litloop.co/blog/books-like-harry-potter)
 -
-  [The Ancient Stories: 14 of the Best Books About Greek Mythology](https://www.cabbagetreebooks.com/blog/best-books-about-greek-mythology)
+  [The Ancient Stories: 14 of the Best Books About Greek Mythology](https://www.litloop.co/blog/best-books-about-greek-mythology)

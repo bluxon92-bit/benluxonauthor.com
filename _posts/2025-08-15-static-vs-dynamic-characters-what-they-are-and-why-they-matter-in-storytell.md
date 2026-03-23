@@ -6,7 +6,7 @@ category: Writing Advice
 excerpt: "Static vs dynamic characters explained — what they are, how they differ, and why both matter to make your story work."
 permalink: /blog/static-vs-dynamic-characters-what-they-are-and-why-they-matter-in-storytell/
 redirect_from:
-  - /writers-blog/static-vs-dynamic-characters/
+  - /blog/static-vs-dynamic-characters-what-they-are-and-why-they-matter-in-storytell/
 ---
 
 ![](https://images.squarespace-cdn.com/content/v1/61dd3a4e102f883537ae2f1d/1745986979249-KNZMLWTCN4YZQ8HDBXU2/character+-+books+%281%29.jpg)
@@ -30,13 +30,13 @@ One of the most iconic dynamic character examples in literature? None other than
 
 This shift isn’t just for show — it’s meaningful. Readers see Scrooge reflect, grow, and ultimately change who he is. That’s what makes him such a memorable, dynamic character.
 
-**Related**: [The Writer’s Guide: How To Create A Character Profile](https://www.benluxonauthor.com/writers-blog/how-to-create-a-character-profile)
+**Related**: [The Writer’s Guide: How To Create A Character Profile](/blog/the-writers-guide-how-to-create-a-character-profile)
 
 ![](https://images.squarespace-cdn.com/content/v1/61dd3a4e102f883537ae2f1d/1f22ab8e-4822-4584-828d-6c1530e955c8/Static+vs+Dynamic+%281%29.png)
 
 ## **What Is a Static Character?**
 
-In contrast, a static character stays essentially the same throughout a story. [Their beliefs, behaviours, and personality](/writers-blog/how-to-write-believable-characters) remain consistent from start to finish. That’s not a bad thing — static characters often serve important roles, especially when supporting more change-focused leads.
+In contrast, a static character stays essentially the same throughout a story. [Their beliefs, behaviours, and personality](/blog/how-to-write-believable-characters-character-motivation) remain consistent from start to finish. That’s not a bad thing — static characters often serve important roles, especially when supporting more change-focused leads.
 
 -
   **A static character** doesn’t grow or evolve, and that stability can either be endearing, symbolic, or just plain entertaining.
@@ -73,7 +73,7 @@ Disney villains are also classic examples of static characters. They’re evil, 
 
 Sometimes, static characters are written purely for laughs or satire. Think Mr. Collins in *Pride and Prejudice*. He never learns, never changes — and that’s kind of the point. His ridiculousness contrasts perfectly with Elizabeth Bennet’s intelligence and independence.
 
-In this case, the lack of change is a tool: it tells us something about the [world](/writers-blog/15-steps-to-fantasy-world-building) or the protagonist. Even the most absurd characters can serve a greater narrative purpose.
+In this case, the lack of change is a tool: it tells us something about the [world](/blog/15-steps-to-fantasy-world-building) or the protagonist. Even the most absurd characters can serve a greater narrative purpose.
 
 ## **Dynamic Characters Drive the Plot**
 
@@ -83,11 +83,11 @@ Sure, a static character might want to solve a mystery or find a treasure, but a
 
 In *The Great Gatsby*, Gatsby is a complex, dynamic character who chases an impossible dream. Tom Buchanan, by contrast, is a static character. Rich, arrogant, and unchanged, Tom’s presence in the story highlights Gatsby’s desperation and ultimate downfall.
 
-**Related**: [How To Write Realistic And Engaging Dialogue](https://www.benluxonauthor.com/writers-blog/how-to-write-realistic-dialogue)
+**Related**: [How To Write Realistic And Engaging Dialogue](/blog/how-to-write-realistic-and-engaging-dialogue)
 
 ## **Static and Dynamic Characters: The Perfect Pairing**
 
-So, static vs dynamic characters isn’t a battle — it’s a partnership. Together, they [create tension](/writers-blog/creating-tension-when-writing-your-book), contrast, and clarity. Without one, the other might fall flat.
+So, static vs dynamic characters isn’t a battle — it’s a partnership. Together, they [create tension](/blog/how-to-create-tension-when-writing-your-story), contrast, and clarity. Without one, the other might fall flat.
 
 Dynamic characters create emotional stakes. Static characters provide structure and reflection. When used skillfully, they elevate each other and the entire story.
 

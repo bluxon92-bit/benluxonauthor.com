@@ -6,12 +6,12 @@ category: Writing Advice
 excerpt: "How to create a character profile — a writer's guide to building deep, convincing characters with motivation, arc, and personality."
 permalink: /blog/the-writers-guide-how-to-create-a-character-profile/
 redirect_from:
-  - /writers-blog/how-to-create-a-character-profile/
+  - /blog/the-writers-guide-how-to-create-a-character-profile/
 ---
 
 ![](https://images.squarespace-cdn.com/content/v1/61dd3a4e102f883537ae2f1d/b2e2f05f-1b03-492f-867f-b80030a70933/Character+profile+%281%29.jpg)
 
-At the centre of every [great story](https://www.cabbagetreebooks.com/blog/david-gemmells-drenai-series) is a cast of characters that convince you to read on, that almost become your friends. They have motivations, arcs, development and personalities that are understandable, deep and unique. However, as a writer creating these kinds of characters isn’t easy. You need to know them inside and out, understand what makes them tick and how they will respond to events and overcome the obstacles that you throw their way.
+At the centre of every [great story](https://www.litloop.co/blog/david-gemmells-drenai-series) is a cast of characters that convince you to read on, that almost become your friends. They have motivations, arcs, development and personalities that are understandable, deep and unique. However, as a writer creating these kinds of characters isn’t easy. You need to know them inside and out, understand what makes them tick and how they will respond to events and overcome the obstacles that you throw their way.
 
 Creating a character profile isn’t for everyone (we all have to find what works for us after all), but for those writers struggling to answer questions such “as do my characters have depth?”, working through the steps to create a character profile can help fill and round out your characters bringing them to life.
 
@@ -25,11 +25,11 @@ While filling out a character template may feel like a bit of a waste of time, e
 
 For example, a villain that is evil simply because the plot needs a villain is going to be weak and two-dimensional. But, a villain who has suffered a loss and will do anything in their power to right their past - even if they’re misguided - well this villain becomes understandable.
 
-By working through and answering the questions in a character profile authors can better understand how their characters will react in certain scenarios, their overall motivations, and their function within the story. This will help you create unique engaging characters a avoid common [tropes](https://www.benluxonauthor.com/blog/93-book-tropes-that-writers-need-to-know-about).
+By working through and answering the questions in a character profile authors can better understand how their characters will react in certain scenarios, their overall motivations, and their function within the story. This will help you create unique engaging characters a avoid common [tropes](/blog/93-book-tropes-that-writers-need-to-know-about).
 
 Authors need to understand their characters like the back of their hands, even if they’re not going to reveal a lot of the details, even if the audience only gets to see 10% of who this character really is. In fact, you shouldn’t try to pack in every detail, doing so will likely result in an “info dump”. However, having the details there, referencing them and revealing them when they are relevant to the story is essential if you want your characters to feel well-drawn, flawed and real.
 
-**You Might Like: **[10 of the Best Science Fiction Authors That Everyone Should Read](https://www.cabbagetreebooks.com/blog/10-sci-fi-authors)
+**You Might Like: **[10 of the Best Science Fiction Authors That Everyone Should Read](https://www.litloop.co/blog/10-sci-fi-authors)
 
 ## What makes a good character profile?
 
@@ -391,7 +391,7 @@ If you’re already familiar with this skip ahead to the part you want to hone:
 **How do they approach:**
 
 -
-  [Power](https://www.cabbagetreebooks.com/blog/30-best-books-for-entreprenuers)?
+  [Power](https://www.litloop.co/blog/30-best-books-for-entreprenuers)?
 -
   Ambition?
 -
@@ -428,7 +428,7 @@ If you’re already familiar with this skip ahead to the part you want to hone:
 
 ### Goals and Motivations
 
-Understanding your [character’s motivation](https://www.benluxonauthor.com/blog/how-to-write-believable-characters-character-motivation) and key goals is essential if you want to create a three-dimensional character that your readers can relate to. Ask yourself, what does your character want, why do they want it, and how far are they willing to go to achieve it? This is critical information that, should your characters seem to stray off course, you can revisit to remind yourself, and them why they are doing what they’re doing.
+Understanding your [character’s motivation](/blog/how-to-write-believable-characters-character-motivation) and key goals is essential if you want to create a three-dimensional character that your readers can relate to. Ask yourself, what does your character want, why do they want it, and how far are they willing to go to achieve it? This is critical information that, should your characters seem to stray off course, you can revisit to remind yourself, and them why they are doing what they’re doing.
 
 -
   What is their story goal? (answer in a single paragraph)
@@ -439,17 +439,17 @@ Understanding your [character’s motivation](https://www.benluxonauthor.com/blo
 
 ## Final Words
 
-If an author wants to make their stories irresistible after [publishing](https://www.benluxonauthor.com/blog/5-things-every-author-needs-to-know-before-self-publishing) them then they need to make their characters believable, then they need to fully understand what drives their characters, how they will react in particular situations and what their motivations are.
+If an author wants to make their stories irresistible after [publishing](/blog/5-things-every-author-needs-to-know-before-self-publishing) them then they need to make their characters believable, then they need to fully understand what drives their characters, how they will react in particular situations and what their motivations are.
 
 Not having answers to these basic questions, or worse, ignoring them can often result in characters acting out of, well, character. It makes it harder for readers to connect and can result in a jarring reading experience where the character appears to be simply doing what they’re doing because it’s necessary to drive the plot forward.
 
 #### You Might Like
 
 -
-  [5 Key Elements To Writing A Great Fiction Novel](https://www.benluxonauthor.com/blog/5-key-elements-to-writing-a-great-fiction-novel)
+  [5 Key Elements To Writing A Great Fiction Novel](/blog/5-key-elements-to-writing-a-great-fiction-novel)
 -
-  [How to Write Believable Characters: Character Motivation](https://www.benluxonauthor.com/blog/how-to-write-believable-characters-character-motivation)
+  [How to Write Believable Characters: Character Motivation](/blog/how-to-write-believable-characters-character-motivation)
 -
-  [5 Things Every Author Needs To Know Before Self-Publishing](https://www.benluxonauthor.com/blog/5-things-every-author-needs-to-know-before-self-publishing)
+  [5 Things Every Author Needs To Know Before Self-Publishing](/blog/5-things-every-author-needs-to-know-before-self-publishing)
 -
-  [93 Book Tropes That Writers Need To Know About](https://www.benluxonauthor.com/blog/93-book-tropes-that-writers-need-to-know-about)
+  [93 Book Tropes That Writers Need To Know About](/blog/93-book-tropes-that-writers-need-to-know-about)

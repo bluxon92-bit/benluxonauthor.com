@@ -180,8 +180,8 @@ Thanks for reading, I hope you find to be a useful guide for getting set up with
 #### You Might Like
 
 -
-  [9 Incredible Fantasy Short Stories & Where You Can Read Them](https://www.cabbagetreebooks.com/blog/fantasy-short-stories)
+  [9 Incredible Fantasy Short Stories & Where You Can Read Them](https://www.litloop.co/blog/fantasy-short-stories)
 -
-  [12 Classic Science Fiction Short Stories You Need To Read](https://www.cabbagetreebooks.com/blog/12-classic-science-fiction-short-stories-you-need-to-read)
+  [12 Classic Science Fiction Short Stories You Need To Read](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read)
 -
-  [9 Dystopian Novels That Will Change How You View The World](https://www.cabbagetreebooks.com/blog/9-dystopian-novels-to-read)
+  [9 Dystopian Novels That Will Change How You View The World](https://www.litloop.co/blog/9-dystopian-novels-to-read)

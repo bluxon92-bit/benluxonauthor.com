@@ -12,9 +12,9 @@ excerpt: "Fantasy world-building in 15 steps — how to create an immersive, bel
 
 Worldbuilding is the process of creating an imaginary world or universe for the purpose of telling a story. It is a crucial element of fiction writing, especially in the fantasy and science fiction genres.
 
-Good worldbuilding involves creating a captivating story with [well-developed characters](https://www.benluxonauthor.com/blog/how-to-write-believable-characters-character-motivation) set in an imaginary world that is distinct from the real world. It should also be relevant to the plot, characters, and central themes of the story.
+Good worldbuilding involves creating a captivating story with [well-developed characters](/blog/how-to-write-believable-characters-character-motivation) set in an imaginary world that is distinct from the real world. It should also be relevant to the plot, characters, and central themes of the story.
 
-The amount of worldbuilding required in a story can vary depending on the genre. For example, an [epic fantasy novel](https://www.cabbagetreebooks.com/blog/29-best-fantasy-books) would typically require more world-building than an urban fantasy book, a historical video game, or a science fiction short story.
+The amount of worldbuilding required in a story can vary depending on the genre. For example, an [epic fantasy novel](https://www.litloop.co/blog/29-best-fantasy-books) would typically require more world-building than an urban fantasy book, a historical video game, or a science fiction short story.
 
 ## Why world-building is important
 
@@ -26,11 +26,11 @@ However, all authors can benefit from improving their world-building skills, reg
 
 ## 1. Draw from the real world.
 
-For science fiction and fantasy writers, it can be helpful to draw inspiration from real-life cultures and societies in order to create a realistic and logical world. This can include creating geography similar to that of the real world, keeping the technology level similar to a specific point in history, incorporating elements of real-world religions and [mythologies](https://www.cabbagetreebooks.com/blog/the-best-sci-fi-books-by-ursula-k-le-guin), and using real-world events to inspire the backstory of the fictional world.
+For science fiction and fantasy writers, it can be helpful to draw inspiration from real-life cultures and societies in order to create a realistic and logical world. This can include creating geography similar to that of the real world, keeping the technology level similar to a specific point in history, incorporating elements of real-world religions and [mythologies](https://www.litloop.co/blog/the-best-sci-fi-books-by-ursula-k-le-guin), and using real-world events to inspire the backstory of the fictional world.
 
 Alternatively, you could create a world that is very similar to the real world with only a few significant differences, which can be particularly effective in alternative history stories. A good example of this is George R.R. Martin's A Song of Ice and Fire, which was the basis for the HBO series Game of Thrones. Martin drew inspiration from a variety of real-world cultures, including the United Kingdom, ancient Rome, Greek city-states, the Mongolian Empire, Africa, and Asia. This helped to give Martin's world a sense of realism and authenticity and ensured that its history, geography, and international relations were believable and well-developed.
 
-**You might also like our article **[**31 Best Fantasy Books You Need To Read Today**](https://www.cabbagetreebooks.com/blog/29-best-fantasy-books)**.**
+**You might also like our article **[**31 Best Fantasy Books You Need To Read Today**](https://www.litloop.co/blog/29-best-fantasy-books)**.**
 
 ## 2. Invent curious customs that hook your reader.
 
@@ -63,7 +63,7 @@ Finally, be mindful of the potential for controversy if you create a religion th
 
 ## 4. Construct a magic system and explore how it affects society.
 
-Constructing a believable magic system is crucial for many readers, especially in fantasy, but also to a degree for [sci-fi stories](https://www.cabbagetreebooks.com/blog/12-classic-science-fiction-short-stories-you-need-to-read) (though this will likely come under the guise of technology).
+Constructing a believable magic system is crucial for many readers, especially in fantasy, but also to a degree for [sci-fi stories](https://www.litloop.co/blog/12-classic-science-fiction-short-stories-you-need-to-read) (though this will likely come under the guise of technology).
 
 It's important to avoid using magic as a last-minute plot device, known as a [deus ex machina](https://www.britannica.com/art/deus-ex-machina), to resolve conflicts. There are two types of magic systems:
 
@@ -72,7 +72,7 @@ It's important to avoid using magic as a last-minute plot device, known as a [de
 -
   At the other end of the spectrum are soft magic systems. This is where readers (and maybe even the characters) don’t know the rules, limitations, or cost of magic.
 
-Both can work well in a story, but it's important to set up the magic's role in the climax if you choose a soft magic system. The Lord of the Rings is an example of a soft magic system, while [Brandon Sanderson's Mistborn series](https://www.cabbagetreebooks.com/blog/11-best-books-by-brandon-sanderson) demonstrates a well-crafted hard magic system.
+Both can work well in a story, but it's important to set up the magic's role in the climax if you choose a soft magic system. The Lord of the Rings is an example of a soft magic system, while [Brandon Sanderson's Mistborn series](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson) demonstrates a well-crafted hard magic system.
 
 You also have to think about the way the magic system impacts society. If some people are born with an innate ability does this result in a class system? Or can anyone use magic? In which case what’s stopping them? And, how does technology interact with your magic systems? [Ursula K Le Guin's Earthsea Quartet](https://www.goodreads.com/book/show/68041.The_Earthsea_Quartet) is a great example of a story that both explores practical applications for magic and attaches serious consequences to its misuse.
 
@@ -82,13 +82,13 @@ Consider the occupations that are most highly valued in your fictional society w
 
 On the other hand, if farming is not valued, you could give the protagonist a farming job and have them strive to break free of their low social standing. To create conflict and an underdog protagonist, you could also give the antagonist a more prestigious occupation. This can make readers root for the hero.
 
-**Related**: [The Writer’s Guide: How To Create A Character Profile](https://www.benluxonauthor.com/blog/the-writers-guide-how-to-create-a-character-profile)
+**Related**: [The Writer’s Guide: How To Create A Character Profile](/blog/the-writers-guide-how-to-create-a-character-profile)
 
 ## 6. Figure out how their laws differ from the real world.
 
 Consider how the laws, customs, and legal processes are similar and how they differ from those in the real world. Think about which of these elements could be important to your story and characters.
 
-George Orwell's 1984 is a well-known [dystopian novel](https://www.cabbagetreebooks.com/blog/9-dystopian-novels-to-read) with laws that are vastly different from most real-world governments. In this novel, the Party has created a system that cannot be overthrown due to numerous laws that suppress opposition.
+George Orwell's 1984 is a well-known [dystopian novel](https://www.litloop.co/blog/9-dystopian-novels-to-read) with laws that are vastly different from most real-world governments. In this novel, the Party has created a system that cannot be overthrown due to numerous laws that suppress opposition.
 
 ![](https://images.squarespace-cdn.com/content/v1/61dd3a4e102f883537ae2f1d/8e03d32e-5b44-4a45-9265-e0eb6eb34167/reading+fantasy+%281%29.jpg)
 
@@ -96,7 +96,7 @@ George Orwell's 1984 is a well-known [dystopian novel](https://www.cabbagetreebo
 
 Include memorable geography in your significant settings to make them stand out in readers' minds. This could be in the form of unique rock formations, natural resources, strange flora and fauna, or distinctive architecture. Describing these features can serve as a shorthand for the importance of a location.
 
-However, be careful not to overuse this technique, as it can cause readers to lose trust in your judgment as an author if you spend a lot of time describing an unimportant location. An example of effective use of memorable geography is found in Robert Jordan's Eye of the World, the first book in [the Wheel of Time series](https://www.cabbagetreebooks.com/blog/29-best-fantasy-books). I personally find it incredibly helpful to sketch out a map of important locations for visual reference. There are many resources available for creating your fictional maps, including [inkarnate.com](https://inkarnate.com), which is a free service.
+However, be careful not to overuse this technique, as it can cause readers to lose trust in your judgment as an author if you spend a lot of time describing an unimportant location. An example of effective use of memorable geography is found in Robert Jordan's Eye of the World, the first book in [the Wheel of Time series](https://www.litloop.co/blog/29-best-fantasy-books). I personally find it incredibly helpful to sketch out a map of important locations for visual reference. There are many resources available for creating your fictional maps, including [inkarnate.com](https://inkarnate.com), which is a free service.
 
 ## 8. Write down a detailed history of your fictional world.
 
@@ -114,21 +114,21 @@ It's important to ensure that the dialogue sounds natural and not forced. You ca
 
 If you've put a lot of effort into worldbuilding, consider how the story impacts society and culture as a whole. For example, your characters may be trying to overcome unjust aspects of their society, seek to overthrow a dystopia and implement their own governing system.
 
-There are plenty of examples of this, including the aforementioned [Mistborn series by Brandon Sanderson](https://www.cabbagetreebooks.com/blog/11-best-books-by-brandon-sanderson), or Suzanne Collins' Hunger Games, Katniss Everdeen and her allies work to overthrow the government and societal norms of Panem, which is an unjust society.
+There are plenty of examples of this, including the aforementioned [Mistborn series by Brandon Sanderson](https://www.litloop.co/blog/11-best-books-by-brandon-sanderson), or Suzanne Collins' Hunger Games, Katniss Everdeen and her allies work to overthrow the government and societal norms of Panem, which is an unjust society.
 
 By slowly realising these changes you can encourage greater investment from your readers as the characters struggle to create change and ultimately it’ll allow you to explore all the pitfalls and problems that come hand in hand with a fast cultural change.
 
 ## 11. Decide on the technology level.
 
-It's important to decide on a technology level for your fictional world in order to avoid anachronisms. Consider aligning your world's technological advancements with a specific era in real-world history, such as the middle ages in Europe or the bronze age in [ancient Greece](https://www.cabbagetreebooks.com/blog/best-books-about-greek-mythology).
+It's important to decide on a technology level for your fictional world in order to avoid anachronisms. Consider aligning your world's technological advancements with a specific era in real-world history, such as the middle ages in Europe or the bronze age in [ancient Greece](https://www.litloop.co/blog/best-books-about-greek-mythology).
 
-Keep in mind that readers who are invested in your world and characters may notice any inconsistencies. In [fantasy stories](https://www.cabbagetreebooks.com/blog/fantasy-short-stories), it's common to base the imaginary world on a particular historical era, but there is also a growing trend towards non-Eurocentric fantasies.
+Keep in mind that readers who are invested in your world and characters may notice any inconsistencies. In [fantasy stories](https://www.litloop.co/blog/fantasy-short-stories), it's common to base the imaginary world on a particular historical era, but there is also a growing trend towards non-Eurocentric fantasies.
 
 ## 12. Create three-dimensional characters.
 
 Characters are key. Without properly developed and interesting characters all your world-building will be for nought. As such, it’s important to consider how the elements of your world may impact the character arc of your protagonist and antagonist.
 
-Try and avoid including unnecessary details that do not influence the plot, character development, or central themes. Good worldbuilding should enhance all three of these elements whereas bad world-building could very well end up with your novel reading more like fantasy non-fiction. You may find it helpful to [use a character profile template](https://www.benluxonauthor.com/blog/the-writers-guide-how-to-create-a-character-profile) as you develop your characters.
+Try and avoid including unnecessary details that do not influence the plot, character development, or central themes. Good worldbuilding should enhance all three of these elements whereas bad world-building could very well end up with your novel reading more like fantasy non-fiction. You may find it helpful to [use a character profile template](/blog/the-writers-guide-how-to-create-a-character-profile) as you develop your characters.
 
 ## 13. Create unique idioms and language uses.
 
@@ -136,7 +136,7 @@ If your story takes place in a world other than the real one, be mindful of usin
 
 For example, characters in a polytheistic world may use phrases like "Oh, gods!" as a curse, or idioms may reference historical figures from the world. If the gods have names you could even use these at specific points.
 
-In [Ursula K Le Guin’s The Left Hand of Darkness](https://www.cabbagetreebooks.com/blog/the-best-sci-fi-books-by-ursula-k-le-guin), she does this very successfully, building key plot points around an idea she called ‘shifgrethor’ - an untranslatable alien word somewhat equivalent to male pride, or imagined prestige.
+In [Ursula K Le Guin’s The Left Hand of Darkness](https://www.litloop.co/blog/the-best-sci-fi-books-by-ursula-k-le-guin), she does this very successfully, building key plot points around an idea she called ‘shifgrethor’ - an untranslatable alien word somewhat equivalent to male pride, or imagined prestige.
 
 ## 14. Only use 10% of your world-building.
 
@@ -146,7 +146,7 @@ Brandon Sanderson suggests choosing 2-4 worldbuilding elements to explore in you
 
 ## 15. Don’t over-plan.
 
-Finally, it’s time to write. Whilst world-building can be fun, the ultimate goal is to write a good book, and if world-building gets in the way, it's not serving that purpose. You should also be careful when world-building to avoid overusing [book tropes](https://www.benluxonauthor.com/blog/93-book-tropes-that-writers-need-to-know-about). It's okay if you haven't finished building your fictional world before you start writing – you can continue to develop it as you go. The important thing is to get the writing process started and not let anything else hold you back.[
+Finally, it’s time to write. Whilst world-building can be fun, the ultimate goal is to write a good book, and if world-building gets in the way, it's not serving that purpose. You should also be careful when world-building to avoid overusing [book tropes](/blog/93-book-tropes-that-writers-need-to-know-about). It's okay if you haven't finished building your fictional world before you start writing – you can continue to develop it as you go. The important thing is to get the writing process started and not let anything else hold you back.[
 
 ![](https://images.squarespace-cdn.com/content/v1/61dd3a4e102f883537ae2f1d/de39e3f4-22ef-47b7-8ffe-fb497e577963/ad+banner+for+website.png)
 
@@ -155,10 +155,10 @@ Finally, it’s time to write. Whilst world-building can be fun, the ultimate go
 ### You Might Like
 
 -
-  [5 Key Elements To Writing A Great Fiction Novel](https://www.benluxonauthor.com/blog/5-key-elements-to-writing-a-great-fiction-novel)
+  [5 Key Elements To Writing A Great Fiction Novel](/blog/5-key-elements-to-writing-a-great-fiction-novel)
 -
-  [5 Things Every Author Needs To Know Before Self-Publishing](https://www.benluxonauthor.com/blog/5-things-every-author-needs-to-know-before-self-publishing)
+  [5 Things Every Author Needs To Know Before Self-Publishing](/blog/5-things-every-author-needs-to-know-before-self-publishing)
 -
-  [29 Best Fantasy Books You Need To Read Today](https://www.cabbagetreebooks.com/blog/29-best-fantasy-books)
+  [29 Best Fantasy Books You Need To Read Today](https://www.litloop.co/blog/29-best-fantasy-books)
 -
-  [How To Read David Gemmell's Drenai Series](https://www.cabbagetreebooks.com/blog/david-gemmells-drenai-series)
+  [How To Read David Gemmell's Drenai Series](https://www.litloop.co/blog/david-gemmells-drenai-series)

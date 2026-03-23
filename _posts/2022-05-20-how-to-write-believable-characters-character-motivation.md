@@ -6,12 +6,12 @@ category: Writing Advice
 excerpt: "Character motivation in fiction — how to write believable characters whose choices and actions feel earned and authentic."
 permalink: /blog/how-to-write-believable-characters-character-motivation/
 redirect_from:
-  - /writers-blog/how-to-write-believable-characters/
+  - /blog/how-to-write-believable-characters-character-motivation/
 ---
 
 ![](https://images.squarespace-cdn.com/content/v1/61dd3a4e102f883537ae2f1d/32e837ce-b537-4509-95e9-82a13c801f7e/believable+character+%281%29.jpeg)
 
-While readers will happily suspend their disbelief for anything from [fantasy stories](https://www.cabbagetreebooks.com/blog/fantasy-short-stories) with dragons to horror stories with ghosts, nothing brings them out of a story faster than a character acting against their own interests or desires. As an author then it is crucial for you to fully understand what character motivation is, the role it plays in your story and of course, how to clearly establish it early on so that your readers can understand and relate to your characters.
+While readers will happily suspend their disbelief for anything from [fantasy stories](https://www.litloop.co/blog/fantasy-short-stories) with dragons to horror stories with ghosts, nothing brings them out of a story faster than a character acting against their own interests or desires. As an author then it is crucial for you to fully understand what character motivation is, the role it plays in your story and of course, how to clearly establish it early on so that your readers can understand and relate to your characters.
 
 In this article, we take a closer look at some of the key questions that writers need to address if they’re going to create and apply a believable and relatable motivation for their characters.
 
@@ -19,7 +19,7 @@ In this article, we take a closer look at some of the key questions that writers
 
 Simply put, character motivation is the reason behind a character's actions in any given scene in the story. It is their driving force. For example, if you were writing a heist story each of the characters would need a reason to be taking that risk. They might be desperate for money or maybe they want revenge against the target. Each of these motivations opens up interesting potential directions in the story.
 
-Character motivation is at [the very heart of the character profile](https://www.benluxonauthor.com/blog/the-writers-guide-how-to-create-a-character-profile) and is absolutely necessary if you want to create a believable character. It can be anything, from an external need for survival to psychological or existential drives such as love, grief, or achievement.
+Character motivation is at [the very heart of the character profile](/blog/the-writers-guide-how-to-create-a-character-profile) and is absolutely necessary if you want to create a believable character. It can be anything, from an external need for survival to psychological or existential drives such as love, grief, or achievement.
 
 ## Why do writers need to understand the character’s motivations?
 
@@ -41,7 +41,7 @@ Once your readers begin to understand the characters and their motivations, they
 
 A villain who constantly frustrates the protagonist as they try to achieve their goal is much more interesting than one that is simply there to frustrate the protagonist because they’re “evil”. Being “evil” is not enough of a reason for them to act the way they do. They have to care about something, if they didn’t care why would they go out of their way to be in the way.
 
-The same goes for the protagonist. The reader needs to be able to care about this character achieving whatever it is they have set out to achieve. If they don’t care then why would they continue reading? While your protagonist doesn’t have to be ‘good’ or even likeable they do need to be understandable and relatable (check our [grimdark fantasy](https://www.cabbagetreebooks.com/blog/grimdark-fantasy-books) article for examples of gritty, realistic and even villainous characters).
+The same goes for the protagonist. The reader needs to be able to care about this character achieving whatever it is they have set out to achieve. If they don’t care then why would they continue reading? While your protagonist doesn’t have to be ‘good’ or even likeable they do need to be understandable and relatable (check our [grimdark fantasy](https://www.litloop.co/blog/grimdark-fantasy-books) article for examples of gritty, realistic and even villainous characters).
 
 ## Examples of character motivations
 
@@ -125,8 +125,8 @@ For some writers, character motivation comes easy — their instinct is to think
 ### You Might Like
 
 -
-  [The Writer’s Guide: How To Create A Character Profile](https://www.benluxonauthor.com/blog/the-writers-guide-how-to-create-a-character-profile)
+  [The Writer’s Guide: How To Create A Character Profile](/blog/the-writers-guide-how-to-create-a-character-profile)
 -
-  [The Pros and Cons of Self-Publishing](https://www.benluxonauthor.com/blog/the-pros-and-cons-of-self-publishing)
+  [The Pros and Cons of Self-Publishing](/blog/the-pros-and-cons-of-self-publishing)
 -
-  [How To Read David Gemmell's Drenai Series](https://www.cabbagetreebooks.com/blog/david-gemmells-drenai-series)
+  [How To Read David Gemmell's Drenai Series](https://www.litloop.co/blog/david-gemmells-drenai-series)

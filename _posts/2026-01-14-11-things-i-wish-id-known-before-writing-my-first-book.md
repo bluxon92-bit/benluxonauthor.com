@@ -32,7 +32,7 @@ If your idea starts off as, *“A subtle satire of modern politics where a stran
 
 The point is, you can add elements, complexity, layers, and depth later. But if you start with a full-scale G.R.R. Martin universe, a hundred characters, and twenty parallel plotlines, well, you’re probably not going to get to the end. I mean, even Mr Martin can’t finish his books.
 
-**Related**: [What Is The 5 Act Structure And How to Use It In Your Writing](/writers-blog/the-5-act-structure)
+**Related**: [What Is The 5 Act Structure And How to Use It In Your Writing](/blog/what-is-the-5-act-structure-and-how-to-use-it-in-your-writing)
 
 ![](https://images.squarespace-cdn.com/content/v1/61dd3a4e102f883537ae2f1d/fa681bd9-e350-4b6d-bf78-acbd1633f4d6/writing+a+novel.jpg)
 
@@ -44,7 +44,7 @@ This can mean different things to different people. Some plan every scene in det
 
 For me, there are two sides to planning:
 
-1.   [**Character motivations.**](/writers-blog/how-to-write-believable-characters) For each key character (protagonist, antagonist, side characters), I ask: *What’s their ultimate goal, and what are they willing to do to get there?*
+1.   [**Character motivations.**](/blog/how-to-write-believable-characters-character-motivation) For each key character (protagonist, antagonist, side characters), I ask: *What’s their ultimate goal, and what are they willing to do to get there?*
 2.   **Structure.** I outline each scene, as well as the turning points, core conflicts and the ending that I’m steering toward.
 
 Not once (I’ve now written four books) has my initial plan matched the final story. But it gives me confidence and something to write toward. I usually redo this outline at least twice during the process—usually after each major arc — to take stock of what’s happened, track loose ends, and figure out how to tie it all back together before it collapses under its own weight.
@@ -59,7 +59,7 @@ You need a clear understanding of what drives each character, their backstory, a
 
 A useful exercise I’ve found is to draft up a one-page story for each character. Where did they come from? What are the important turning points in their lives? What made them the way they are? The more dramatic, the better.
 
-**Related**: [The Writer’s Guide: How To Create A Character Profile](/writers-blog/how-to-create-a-character-profile)
+**Related**: [The Writer’s Guide: How To Create A Character Profile](/blog/the-writers-guide-how-to-create-a-character-profile)
 
 ## 4. Conflict is key
 
@@ -69,7 +69,7 @@ Conflict should be in every scene and every plotline. Your characters should har
 
 Conflict can mean many things. A fight, an argument, a betrayal. Or it can be more subtle: clashing character motivations, unrequited love, or a physical or mental barrier that they have to overcome. The important thing here is that conflict is included in every scene.
 
-**Related**: [5 Key Elements To Writing A Great Fiction Novel](/writers-blog/5-elements-of-a-great-novel)
+**Related**: [5 Key Elements To Writing A Great Fiction Novel](/blog/5-key-elements-to-writing-a-great-fiction-novel)
 
 ## 5. Know where to start and end
 
@@ -85,7 +85,7 @@ A lot of new writers (myself included) want to tell the story from *before* the 
 
 And the truth is, nobody cares.
 
-All that subtext, [world-building](/writers-blog/15-steps-to-fantasy-world-building), and backstory might be fascinating to you, but the reader shouldn’t even realise they’re learning it.
+All that subtext, [world-building](/blog/15-steps-to-fantasy-world-building), and backstory might be fascinating to you, but the reader shouldn’t even realise they’re learning it.
 
 Never convey the mundane unless it adds to the story. A character brushing their teeth? Skip it—unless you’re building dread and something’s off (the toothpaste is the wrong colour, the mirror fogs up with ghostly writing, etc.).
 
@@ -97,7 +97,7 @@ If it’s routine, leave it out. It’s boring and adds nothing. Every word shou
 
 So, you need to dump some exposition. It’s vital. You need to reveal this information, and you need to reveal it now.
 
-The easy option is to drop it into [dialogue](/writers-blog/how-to-write-realistic-dialogue) — your characters sit down for tea and talk through your beautifully constructed plot. Great. Except you’ve also just bored the tits off your reader, and you know it.
+The easy option is to drop it into [dialogue](/blog/how-to-write-realistic-and-engaging-dialogue) — your characters sit down for tea and talk through your beautifully constructed plot. Great. Except you’ve also just bored the tits off your reader, and you know it.
 
 So what can you do?
 
@@ -113,7 +113,7 @@ Always ask: *What does my protagonist want, and what are they willing to do to g
 
 That second part — what they’re willing to do — is the big part here. And it should evolve throughout the story. Their actions should drive events, not the other way around. And the more those actions bring them into conflict with your antagonist, the better.
 
-Related: [Static vs Dynamic Characters: What They Are and Why They Matter in Storytelling](/writers-blog/static-vs-dynamic-characters)
+Related: [Static vs Dynamic Characters: What They Are and Why They Matter in Storytelling](/blog/static-vs-dynamic-characters-what-they-are-and-why-they-matter-in-storytell)
 
 ## 9. Don’t fall in love with your words
 
@@ -129,7 +129,7 @@ If a scene, paragraph, or sentence isn’t earning its place, it’s got to go. 
 
 Reading aloud is the fastest way to spot errors, find awkward sentences, and hear whether your dialogue sounds like people actually talking or whether you’ve accidentally written a Shakespearean monologue when someone’s just ordering coffee.
 
-Your [dialogue should sound natural](/writers-blog/how-to-write-dialogue). But don’t make it too real!
+Your [dialogue should sound natural](/blog/9-actionable-tips-on-how-to-write-great-dialogue). But don’t make it too real!
 
 Skip the filler lines, the *“hello”* and *“how are you?”*
 
